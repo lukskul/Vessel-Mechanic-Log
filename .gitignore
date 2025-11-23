@@ -23,3 +23,11 @@ Thumbs.db
 
 # Ignore Json Templates
 JsonTemplates/
+
+# Ignore all source map files
+*.map
+
+# Ignore CSS and JS source folders
+App/css/
+App/js/
+

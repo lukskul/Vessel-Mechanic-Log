@@ -8,13 +8,6 @@
 - ⚡ **Lightweight** – Optimized for speed and minimal resource usage.  
 - 🌐 **Decentralized** – Fully functional on **IPFS** and **GitHub Pages**, no backend required.  
 
-## 🔹 Adding New Vessels
-How do i add new Vessels? Why are my added Vessels not showing up on the app?
-### **1. Before adding any new Vessels you MUST DO THIS!! **
-// Run : node watcher.js
-What Does it Do? **watcher.js**. This file will update the fileIndex.json array. 
-
-
 # 🚀 - Contributing Guide
 
 Welcome to the **Vessel Mechanic Log** project! We’re excited that you want to contribute. Whether you're fixing bugs, adding new features, or adding information, this guide will walk you through the steps to get started.
@@ -40,13 +33,18 @@ To start contributing, you'll need a GitHub account and a basic understanding of
 4. **Make your changes**:  
    Work on the code, documentation, or tests based on the issue or feature you're tackling.
 
-5. **Commit your changes**:  
+5. **Make sure npm Node Package Manager is installed on your machine**:  
+   on the command line run: npm install 
+   and: npm run start
+   if everything is working you should see a working site in the browser at http://localhost:3000
+
+6. **Commit your changes**:  
    Write clear, concise commit messages explaining your changes.
 
-6. **Push your branch**:  
+7. **Push your branch**:  
    After committing your changes, push your branch to your GitHub fork.
 
-7. **Create a Pull Request**:  
+8. **Create a Pull Request**:  
    Submit a PR to the original repository to merge your changes. This is where I review your changes.
 
 ---
@@ -62,6 +60,12 @@ Clone the forked repository to your local machine:
 git clone https://github.com/YOUR-USERNAME/YOUR-FORKED-REPO.git
 cd YOUR-FORKED-REPO
 ```
+
+## 🔹 Adding New Vessels
+How do i add new Vessels? Why are my added Vessels not showing up on the app?
+### **1. Before adding any new Vessels you MUST DO THIS!! **
+// Run : node watcher.js
+What Does it Do? **watcher.js**. This file will update the fileIndex.json array. 
 
 ---
 

@@ -1,39 +1,78 @@
 {
-  "sealsDetails": [
+  "title": "Boat Seals Inventory",
+  "description": "All critical shaft and rudder seals on the vessel, including recommended replacement intervals and service specs.",
+  "sealDetails": [
     {
-      "type": "shaft",       
-      "manufacturer": "",
-      "model_number": "",
-      "seal_type": "",
-      "installation_date": "",
-      "recommended_replacement_interval": "",
-      "service_specs": {
-        "packing_size": "",
-        "packing_count": "",
-        "compression": "",
-        "set_screws": "",
-        "bolt_size": "",
-        "torque_value": ""
-      },
-      "notes": ""
+      "location": "Shaft Seal STBD",
+      "type": "Shaft",
+      "manufacturer": "ACME Marine",
+      "model": "SS-200",
+      "serialNumber": "STBD12345",
+      "sealSize": "2.5 inch",
+      "recommended_replacement_interval": "12 months",
+      "service_specs": "Inspect every 6 months, replace if leakage observed",
+      "packing_size": "Standard",
+      "packing_count": "1",
+      "compression": "Medium",
+      "set_screws": "2",
+      "bolt_size": "M6",
+      "torque_value": "15 Nm",
+      "mechanicNotes": "",
+      "photos": []
     },
-        {
-      "type": "rudder",       
-      "manufacturer": "",
-      "model_number": "",
-      "seal_type": "",
-      "installation_date": "",
-      "recommended_replacement_interval": "",
-      "service_specs": {
-        "packing_size": "",
-        "packing_count": "",
-        "compression": "",
-        "set_screws": "",
-        "bolt_size": "",
-        "torque_value": ""
-      },
-      "notes": ""
+    {
+      "location": "Shaft Seal PORT",
+      "type": "Shaft",
+      "manufacturer": "ACME Marine",
+      "model": "SS-200",
+      "serialNumber": "PORT12345",
+      "sealSize": "2.5 inch",
+      "recommended_replacement_interval": "12 months",
+      "service_specs": "Inspect every 6 months, replace if leakage observed",
+      "packing_size": "Standard",
+      "packing_count": "1",
+      "compression": "Medium",
+      "set_screws": "2",
+      "bolt_size": "M6",
+      "torque_value": "15 Nm",
+      "mechanicNotes": "",
+      "photos": []
+    },
+    {
+      "location": "Rudder Seal STBD",
+      "type": "Rudder",
+      "manufacturer": "MarineSeal Co.",
+      "model": "RS-150",
+      "serialNumber": "RSSTBD001",
+      "sealSize": "3 inch",
+      "recommended_replacement_interval": "24 months",
+      "service_specs": "Replace annually, check for corrosion",
+      "packing_size": "Standard",
+      "packing_count": "1",
+      "compression": "High",
+      "set_screws": "4",
+      "bolt_size": "M8",
+      "torque_value": "25 Nm",
+      "mechanicNotes": "",
+      "photos": []
+    },
+    {
+      "location": "Rudder Seal PORT",
+      "type": "Rudder",
+      "manufacturer": "MarineSeal Co.",
+      "model": "RS-150",
+      "serialNumber": "RSPORT001",
+      "sealSize": "3 inch",
+      "recommended_replacement_interval": "24 months",
+      "service_specs": "Replace annually, check for corrosion",
+      "packing_size": "Standard",
+      "packing_count": "1",
+      "compression": "High",
+      "set_screws": "4",
+      "bolt_size": "M8",
+      "torque_value": "25 Nm",
+      "mechanicNotes": "",
+      "photos": []
     }
-
   ]
 }

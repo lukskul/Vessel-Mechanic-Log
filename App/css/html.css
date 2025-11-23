@@ -105,6 +105,30 @@ details summary::before {
     background-repeat: no-repeat;
 }
 
+.drop-down-image-zinc::before {
+    background-image: url('https://lukskul.github.io/Vessel-Mechanic-Log/App/icons/zincs.svg'); 
+    width: 35px; 
+    height: 35px;
+    display: inline-block;
+    margin-right: 8px; 
+    transition: transform 0.3s ease;
+    filter: invert(1); 
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.drop-down-image-seal::before {
+    background-image: url('https://lukskul.github.io/Vessel-Mechanic-Log/App/icons/seal.svg'); 
+    width: 35px; 
+    height: 35px;
+    display: inline-block;
+    margin-right: 8px; 
+    transition: transform 0.3s ease;
+    filter: invert(1); 
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 .heading h3 {
     margin-top: 5%; 
     margin-bottom: 3%; 
@@ -153,4 +177,30 @@ details summary::before {
     width: 50%;  /* You can adjust this width */
     text-align: left;
     line-height: 1.5rem; 
+}
+
+.notes {
+  color: #777;           /* grey notes */
+  font-style: italic;
+  margin-left: 10px;
+  margin-bottom: 8px;
+}
+
+.mechanic-notes {
+  color: #2d7a2d;        /* green mechanic notes */
+  font-weight: 500;
+  margin-top: 6px;
+  margin-left: 10px;
+}
+
+.task-image {
+  max-width: 100%;       /* fills container but never overflows */
+  max-height: 200px;     /* keeps them phone-friendly */
+  height: auto;           /* preserves aspect ratio */
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  pointer-events: none;   /* read-only */
+  user-select: none;      /* read-only */
+  margin-top: 6px;
+  display: block;
 }

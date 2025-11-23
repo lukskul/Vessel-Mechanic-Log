@@ -1,6 +1,6 @@
 {
-  "title": "Zinc Retrieval",
-  "description": "Document and remove all anodes from the vessel. Record type, size, material, and quantity.",
+  "title": "Anodes",
+  "description": "Recorded from Vessel, type, material, quantity.",
 
   "locations": [
     {
@@ -34,7 +34,7 @@
           "quantity": 2,
           "partNumber": "",
           "placement": "Center-mounted, port and starboard",
-          "photoBefore": "",
+          "photoBefore": "https://lukskul.github.io/Vessel-Mechanic-Log/App/icons/zincs.svg",
           "photoAfter": "",
           "mechanicNotes": ""
         }

@@ -2,7 +2,7 @@ export function sealsPopulate(data) {
     const container = document.getElementById("html-container");
     container.innerHTML = "";
 
-    const lang = localStorage.getItem('language') || 'en';
+    const lang = localStorage.getItem("language") || "en";
 
     // Title
     const title = document.createElement("h1");
@@ -18,90 +18,83 @@ export function sealsPopulate(data) {
         container.appendChild(desc);
     }
 
-    // Wrap all dropdowns
-    const dropdownContainer = document.createElement("div");
-    dropdownContainer.classList.add("dropdown-container");
-    container.appendChild(dropdownContainer);
-
-    const seals = data.sealDetails || [];
-
-    seals.forEach((seal, index) => {
+    // Seal Details Loop
+    data.sealDetails.forEach((seal, index) => {
         const section = document.createElement("div");
-        section.classList.add("dropdown-section", `seal-object-${index + 1}`);
+        section.classList.add("dropdown-section", `seal-object-${index + 1}`, "mb-6");
 
         const dropdown = document.createElement("details");
         const summary = document.createElement("summary");
-        summary.classList.add("drop-down-image-prop");
-
-        summary.textContent =
-            seal.location ||
-            seal.type ||
-            (lang === "es" ? "Sello" : "Seal");
-
+        summary.classList.add("drop-down-image-seal");
+        summary.textContent = seal.location || (lang === "es" ? "Ubicación" : "Location");
         dropdown.appendChild(summary);
 
-        // Info box
-        const infoWrapper = document.createElement("div");
-        infoWrapper.classList.add("section-info", "mt-3");
+        const contentWrapper = document.createElement("div");
+        contentWrapper.classList.add("section-info", "mt-4", "space-y-4");
 
-        Object.keys(seal).forEach(key => {
-            if (key === "photo" || key === "notes") return; // handled separately
+        // Seal Info Box
+        const sealBox = document.createElement("div");
+        sealBox.className = "p-4 bg-white rounded-xl shadow space-y-4 mb-4";
 
-            const row = document.createElement("div");
-            row.classList.add("detail-b-row");
+        const rows = [
+            { label: lang === "es" ? "Tipo" : "Type", value: seal.type },
+            { label: lang === "es" ? "Fabricante" : "Manufacturer", value: seal.manufacturer },
+            { label: lang === "es" ? "Modelo" : "Model", value: seal.model },
+            { label: lang === "es" ? "Número de Serie" : "Serial Number", value: seal.serialNumber },
+            { label: lang === "es" ? "Tamaño del Sello" : "Seal Size", value: seal.sealSize },
+            { label: lang === "es" ? "Intervalo Recomendado" : "Recommended Replacement Interval", value: seal.recommended_replacement_interval },
+            { label: lang === "es" ? "Especificaciones de Servicio" : "Service Specs", value: seal.service_specs },
+            { label: lang === "es" ? "Tamaño del Empaque" : "Packing Size", value: seal.packing_size },
+            { label: lang === "es" ? "Cantidad de Empaques" : "Packing Count", value: seal.packing_count },
+            { label: lang === "es" ? "Compresión" : "Compression", value: seal.compression },
+            { label: lang === "es" ? "Tornillos de Fijación" : "Set Screws", value: seal.set_screws },
+            { label: lang === "es" ? "Tamaño del Perno" : "Bolt Size", value: seal.bolt_size },
+            { label: lang === "es" ? "Valor de Torque" : "Torque Value", value: seal.torque_value }
+        ];
 
-            row.innerHTML = `
-                <div class="detail-b-key">${formatLabel(key, lang)}:</div>
-                <div class="detail-b-value">${seal[key]}</div>
-            `;
+        rows.forEach(row => {
+            if (row.value && row.value.trim() !== "") {
+                const rowDiv = document.createElement("div");
+                rowDiv.classList.add("detail-b-row");
 
-            infoWrapper.appendChild(row);
+                rowDiv.innerHTML = `
+                    <div class="detail-b-key">${row.label}</div>
+                    <div class="detail-b-value">${row.value}</div>
+                `;
+
+                sealBox.appendChild(rowDiv);
+            }
         });
 
-        // Photo
-        if (seal.photo) {
-            const img = document.createElement("img");
-            img.src = seal.photo;
-            img.className = "w-full rounded-lg mt-3";
-            infoWrapper.appendChild(img);
+        // Mechanic Notes — Green
+        if (seal.mechanicNotes && seal.mechanicNotes.trim() !== "") {
+            const mechDiv = document.createElement("div");
+            mechDiv.classList.add("detail-b-row");
+
+            mechDiv.innerHTML = `
+                <div class="detail-b-key">${lang === "es" ? "Notas" : "Notes"}</div>
+                <div class="detail-b-value bg-green-100 border border-green-300 text-green-800 p-2 rounded">
+                    ${seal.mechanicNotes}
+                </div>
+            `;
+            sealBox.appendChild(mechDiv);
         }
 
-        // Notes
-        const notesBox = document.createElement("textarea");
-        notesBox.placeholder = lang === "es" ? "Notas..." : "Notes...";
-        notesBox.className = "w-full p-2 border rounded-lg bg-gray-100 mt-3";
-        notesBox.value = seal.notes || "";
-        infoWrapper.appendChild(notesBox);
+        // Photos
+        if (seal.photos && seal.photos.length) {
+            seal.photos.forEach(photo => {
+                if (photo && photo.trim() !== "") {
+                    const img = document.createElement("img");
+                    img.src = photo;
+                    img.className = "task-image";
+                    sealBox.appendChild(img);
+                }
+            });
+        }
 
-        dropdown.appendChild(infoWrapper);
+        contentWrapper.appendChild(sealBox);
+        dropdown.appendChild(contentWrapper);
         section.appendChild(dropdown);
-        dropdownContainer.appendChild(section);
+        container.appendChild(section);
     });
-
-    // Match bow thruster column count
-    const count = seals.length;
-    dropdownContainer.classList.remove("one-item", "two-items", "three-items", "four-items");
-    dropdownContainer.classList.add(
-        count === 1 ? "one-item" :
-        count === 2 ? "two-items" :
-        count === 3 ? "three-items" : "four-items"
-    );
-}
-
-// Helper: convert JSON keys to readable labels
-function formatLabel(key, lang) {
-    const labels = {
-        serialNumber: lang === "es" ? "Número de Serie" : "Serial Number",
-        manufacturer: lang === "es" ? "Fabricante" : "Manufacturer",
-        model: "Model",
-        type: lang === "es" ? "Tipo" : "Type",
-        location: lang === "es" ? "Ubicación" : "Location",
-        shaftSize: lang === "es" ? "Tamaño del Eje" : "Shaft Size",
-        bellowsSize: lang === "es" ? "Tamaño del Fuelle" : "Bellows Size",
-        shaftDia: lang === "es" ? "Diámetro del Eje" : "Shaft Dia.",
-        housingDia: lang === "es" ? "Diámetro de la Carcasa" : "Housing Dia.",
-        sealSize: lang === "es" ? "Tamaño del Sello" : "Seal Size"
-    };
-
-    return labels[key] || key.replace(/([A-Z])/g, " $1");
 }

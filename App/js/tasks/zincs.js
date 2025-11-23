@@ -18,63 +18,96 @@ export function zincsPopulate(data) {
         container.appendChild(desc);
     }
 
-    // Loop Locations
+    // Locations Loop
     data.locations.forEach((loc, index) => {
         const section = document.createElement("div");
         section.classList.add("dropdown-section", `zinc-object-${index + 1}`, "mb-6");
 
         const dropdown = document.createElement("details");
         const summary = document.createElement("summary");
-
-        summary.classList.add("drop-down-image-prop");
+        summary.classList.add("drop-down-image-zinc");
         summary.textContent = loc.name;
         dropdown.appendChild(summary);
 
-        // Zincs List Container
         const contentWrapper = document.createElement("div");
-        contentWrapper.classList.add("section-info", "mt-3");
+        contentWrapper.classList.add("section-info", "mt-4", "space-y-4");
 
+        // --- Location Notes (gray, italic)
+        if (loc.notes && loc.notes.trim() !== "") {
+            const notesP = document.createElement("p");
+            notesP.className = "text-sm text-gray-500 italic mb-2";
+            notesP.textContent = loc.notes;
+            contentWrapper.appendChild(notesP);
+        }
+
+        // --- Zinc Loop (correct)
         loc.zincs.forEach((zinc) => {
             const zincBox = document.createElement("div");
-            zincBox.className = "p-4 bg-white rounded-xl shadow space-y-3 mb-4";
+            zincBox.className = "p-4 bg-white rounded-xl shadow space-y-4 mb-4";
 
-            // Header
+            // Top Section — Type / Size / Material / Qty / Part Number
             const header = document.createElement("div");
-            header.className = "flex justify-between";
-            header.innerHTML = `
-                <div>
-                    <div class="font-semibold">${zinc.type}</div>
-                    <div class="text-sm text-gray-600">${lang === "es" ? "Tamaño" : "Size"}: ${zinc.size}</div>
-                    <div class="text-sm text-gray-600">${lang === "es" ? "Material" : "Material"}: ${zinc.material}</div>
-                    <div class="text-sm text-gray-600">${lang === "es" ? "Cantidad" : "Qty"}: ${zinc.quantity}</div>
-                </div>
-                <div class="text-right text-sm text-gray-500">${zinc.partNumber ?? ""}</div>
-            `;
+            header.className = "space-y-2";
+
+            const rows = [
+                { label: lang === "es" ? "Tipo" : "Type", value: zinc.type },
+                { label: lang === "es" ? "Tamaño" : "Size", value: zinc.size },
+                { label: lang === "es" ? "Material" : "Material", value: zinc.material },
+                { label: lang === "es" ? "Cantidad" : "Qty", value: zinc.quantity },
+                { label: lang === "es" ? "Número de Parte" : "Part Number", value: zinc.partNumber || "—" }
+            ];
+
+            rows.forEach(row => {
+                const rowDiv = document.createElement("div");
+                rowDiv.classList.add("detail-b-row");
+
+                rowDiv.innerHTML = `
+                    <div class="detail-b-key">${row.label}</div>
+                    <div class="detail-b-value">${row.value}</div>
+                `;
+
+                header.appendChild(rowDiv);
+            });
+
             zincBox.appendChild(header);
 
             // Placement
             if (zinc.placement) {
-                const placement = document.createElement("div");
-                placement.className = "text-sm text-gray-700";
-                placement.textContent =
-                    (lang === "es" ? "Ubicación: " : "Placement: ") + zinc.placement;
-                zincBox.appendChild(placement);
+                const placementDiv = document.createElement("div");
+                placementDiv.classList.add("detail-b-row");
+
+                placementDiv.innerHTML = `
+                    <div class="detail-b-key">${lang === "es" ? "Ubicación" : "Placement"}</div>
+                    <div class="detail-b-value">${zinc.placement}</div>
+                `;
+                zincBox.appendChild(placementDiv);
             }
 
-            // Photo Before
-            if (zinc.photoBefore) {
-                const imgBefore = document.createElement("img");
-                imgBefore.src = zinc.photoBefore;
-                imgBefore.className = "w-full rounded-lg";
-                zincBox.appendChild(imgBefore);
-            }
+            // Photos (before/after or any images)
+            ['photoBefore','photoAfter'].forEach(key => {
+                if (zinc[key]) {
+                    const img = document.createElement("img");
+                    img.src = zinc[key];
+                    img.className = "task-image";
+                    zincBox.appendChild(img);
+                }
+            });
 
-            // Notes
-            const notesBox = document.createElement("textarea");
-            notesBox.placeholder = lang === "es" ? "Notas del mecánico..." : "Mechanic notes...";
-            notesBox.className = "w-full p-2 border rounded-lg bg-gray-100";
-            notesBox.value = zinc.mechanicNotes || "";
-            zincBox.appendChild(notesBox);
+
+            // Mechanic Notes — Green
+            if (zinc.mechanicNotes && zinc.mechanicNotes.trim() !== "") {
+                const mechDiv = document.createElement("div");
+                mechDiv.classList.add("detail-b-row");
+
+                mechDiv.innerHTML = `
+                    <div class="detail-b-key">${lang === "es" ? "Notas" : "Notes"}</div>
+                    <div class="detail-b-value bg-green-100 border border-green-300 text-green-800 p-2 rounded">
+                        ${zinc.mechanicNotes}
+                    </div>
+                `;
+
+                zincBox.appendChild(mechDiv);
+            }
 
             contentWrapper.appendChild(zincBox);
         });

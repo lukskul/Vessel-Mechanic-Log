@@ -1,40 +1,27 @@
-
 {
-    "sealsDetails": [
-      {
-        "rudder_seals": {
-            "manufacturer": "",
-            "model_number": "",
-            "seal_type": "",
-            "installation_date": "",
-            "recommended_replacement_interval": "",
-            "Service Specs": {
-                "packing size": "", 
-                "packing count": "", 
-                "compression": "", 
-                "set screws": "",
-                "bolt_size": "",
-                "torque_value": ""
-            },
-            "notes": ""
-        },
-        "shaft_seals": {
-          "manufacturer": "",
-          "model_number": "",
-          "seal_type": "PSS",
-          "installation_date": "",
-          "recommended_replacement_interval": "",
-          "Service Specs": {
-            "packing size": "", 
-            "packing count": "", 
-            "compression": "1\"",
-            "set screws": "3/26\" Allen",
-            "bolt_size": "",
-            "torque_value": ""
-          },
-          "notes": ""
-        }
-      }
+  "title": "",
+  "description": "",
+  "sealDetails": [
+    {
+      "location": "Shaft Seals",
+      "type":  "PSS",
+      "manufacturer": "", 
+      "model": "",
+      "serialNumber": "",
+      "sealSize": "",
+      "recommended_replacement_interval": "",
+      "service_specs": "", 
+      "packing_size": "",
+      "packing_count": "",
+      "compression": "1\"",
+      "set_screws": "3/8\"",
+      "bolt_size": "",
+      "torque_value": "",
       
-    ]
+      "mechanicNotes": "3/16\" Allen",
+      "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/icons/pssSeal.svg"]
+    }
+  ]
 }
+
+

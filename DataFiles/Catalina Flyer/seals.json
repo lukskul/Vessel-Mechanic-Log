@@ -1,40 +1,26 @@
-
 {
-  "sealsDetails": [
+  "title": "",
+  "description": "",
+  "sealDetails": [
     {
-      "rudder_seals": {
-        "manufacturer": "",
-        "model_number": "",
-        "seal_type": "",
-        "installation_date": "",
-        "recommended_replacement_interval": "",
-        "Service Specs": {
-            "packing size": "", 
-            "packing count": "", 
-            "compression": "", 
-            "set screws": "",
-            "bolt_size": "",
-            "torque_value": ""
-        },
-        "notes": "No rudder Seals"
-      },
-      "shaft_seals": {
-        "manufacturer": "",
-        "model_number": "",
-        "seal_type": "",
-        "installation_date": "",
-        "recommended_replacement_interval": "",
-        "Service Specs": {
-            "packing size": "", 
-            "packing count": "", 
-            "compression": "", 
-            "set screws": "",
-            "bolt_size": "",
-            "torque_value": ""
-        },
-        "notes": ""
-      }
+      "location": "Rudder Seals",
+      "type":  "No rudder seals",
+      "manufacturer": "", 
+      "model": "",
+      "serialNumber": "",
+      "sealSize": "",
+      "recommended_replacement_interval": "",
+      "service_specs": "", 
+      "packing_size": "",
+      "packing_count": "",
+      "compression": "",
+      "set_screws": "",
+      "bolt_size": "",
+      "torque_value": "",
+      
+      "mechanicNotes": "",
+      "photos": [""]
     }
-    
   ]
 }
+

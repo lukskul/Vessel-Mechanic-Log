@@ -1,128 +1,130 @@
 {
     "Acoustic Explorer": [
-        "bowThruster.json",
+        "thruster.json",
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Amore": [
-        "couplers.json",
+        "coupler.json",
         "info.json",
-        "props.json",
-        "seals.json"
+        "prop.json",
+        "seal.json"
     ],
     "Arrowhead": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Bellisima": [
-        "bowThruster.json",
+        "thruster.json",
         "info.json"
     ],
     "California Princess": [
-        "couplers.json",
+        "coupler.json",
         "info.json"
     ],
     "Californian": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Caravelle": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Catalina Flyer": [
         "info.json",
         "rudder.json",
-        "seals.json"
+        "seal.json"
     ],
     "Channel Cat": [
-        "couplers.json",
+        "coupler.json",
         "info.json"
     ],
     "Getaway": [
-        "couplers.json",
+        "coupler.json",
         "info.json"
     ],
     "Ketau": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Legacy": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Mystic Whaler": [
-        "couplers.json",
+        "coupler.json",
         "info.json"
     ],
     "Newport Flyer": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Newport Hornblower": [
-        "couplers.json",
+        "coupler.json",
         "engine.json",
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Paul Johansen": [
-        "bowThruster.json",
+        "thruster.json",
         "info.json"
     ],
     "Phantom": [
-        "bowThruster.json",
-        "couplers.json",
+        "thruster.json",
+        "coupler.json",
         "info.json",
-        "seals.json"
+        "seal.json"
     ],
     "Phonix": [
         "info.json"
     ],
     "Rent Spent": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Royal Polaris ": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
-    "Rule#1": [
+    "Rule1": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Sapphire Star": [
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Spirit of Adventure": [
-        "couplers.json",
+        "coupler.json",
         "info.json",
-        "props.json"
+        "prop.json"
     ],
     "Surfrider": [
-        "couplers.json",
+        "coupler.json",
         "info.json",
-        "props.json",
+        "prop.json",
         "rudder.json",
-        "seals.json"
+        "seal.json"
     ],
     "Test": [
         "anchor.json",
-        "bowThruster.json",
-        "couplers.json",
+        "thruster.json",
+        "coupler.json",
         "engine.json",
         "generator.json",
         "info.json",
         "motor.json",
-        "props.json",
+        "prop.json",
         "rudder.json",
-        "seals.json",
-        "seascreen.json",
+        "seal.json",
+        "seaScreen.json",
         "shaft.json",
-        "zincs.json"
+        "zinc.json", 
+        "door.json", 
+        "plus.json"
     ],
     "Triumphant": [
         "info.json",
-        "props.json"
+        "prop.json"
     ]
 }

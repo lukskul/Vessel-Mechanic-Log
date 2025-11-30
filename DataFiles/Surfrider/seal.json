@@ -1,0 +1,30 @@
+{
+  "seals": [
+    {
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "sealDetails": [
+        {
+          "location": "Main Engine Shaft Seals",
+          "type": "Lip Seals",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/icons/lipSeal.svg"]
+        }
+      ]
+    }
+  ]
+}

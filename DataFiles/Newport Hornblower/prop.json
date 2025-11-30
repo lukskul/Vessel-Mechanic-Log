@@ -1,0 +1,60 @@
+{
+  "prop": [
+    {
+      "title": { "en": "Mains", "es": "" },
+
+      "sectionInfo": {
+        "description": {
+          "en": "",
+          "es": ""
+        }
+      },
+
+      "labels": {
+        "serial": { "en": "Serial Num.", "es": "Número de Serie" },
+        "info": { "en": "Info", "es": "Información" },
+
+        "nutSection": { "en": "Prop Nut:", "es": "Tuerca:" },
+        "nutSize": { "en": "Nut Size", "es": "Tamaño de la Tuerca" },
+        "nutRestraint": { "en": "Nut Restraint", "es": "Restricción de la Tuerca" },
+        "pullingHoles": { "en": "Pulling Holes", "es": "Agujeros de Extracción" },
+
+        "specsSection": { "en": "Specs:", "es": "Especificaciones:" },
+        "diameterPitch": { "en": "Dia. x Pitch", "es": "Diámetro x Paso" },
+        "markings": { "en": "Markings", "es": "Marcas" },
+        "bore": { "en": "Bore", "es": "Agujero" },
+        "material": { "en": "Material", "es": "Material" }
+      },
+
+      "propDetails": [
+        {
+          "direction": "LH",
+          "serialNumber": "BDP150313",
+          "info": {
+            "en": "Pitch reduced from 32\"",
+            "es": ""
+          }
+        },
+        {
+          "direction": "RH",
+          "serialNumber": "BDP150312",
+          "info": {
+            "en": "Pitch reduced from 32\"",
+            "es": ""
+          }
+        }        
+      ],
+
+      "specs": {
+        "propNutSize": "3-1/2\"",
+        "nutRestraint": "1/4\" x 4\" Cotter Pin",
+        "pullingHoles": "5/8\"",
+        "diameterPitch": "34\"d x 28\"p",
+        "markings": "MADE IN MEXICO",
+        "bore": "",
+        "material": "Bronze"
+      }
+    }
+    
+  ]
+}

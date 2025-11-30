@@ -1,0 +1,31 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine Couplers",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "Stbd",
+          "Coupler Bolt": "33 mm",
+          "Retaining Nut": "3-1/8\" Thin Wall Socket",
+          "Safety Lock": "Nyloc Nut",
+          "Removal Info": "5/8\" Allthread 12\" length with PortaPower",
+          "mechanicNotes": "",
+          "photos": [""]
+        }        
+      ]
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvml_v2=self.webpackChunkvml_v2||[]).push([[236],{236:(e,l,c)=>{function n(e){console.log("hello from zinc page")}c.r(l),c.d(l,{zincPopulate:()=>n})}}]);

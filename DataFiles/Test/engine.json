@@ -1,9 +1,39 @@
 {
-  "engineDetails": [
+  "engine": [
     {
-      "Mount Stud": "",
-      "Mount": ""
-
+      "title": { "en": "Mains" },
+      "sides": [
+        {
+          "position": { "en": "Port" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "Title": "",
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ]
+        },
+        {
+          "position": { "en": "STBD" },
+          "brand": "",
+          "model": "",
+          "horsepower": "425 HP",
+          "rpm": "2300",
+          "mounts": [
+            {
+              "Title": { "en": "Engine Mounts" },
+              "type": "Vibration Isolator",
+              "height": "50 mm",
+              "alignment_notes": "Adjusted 2 mm starboard for shaft alignment"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

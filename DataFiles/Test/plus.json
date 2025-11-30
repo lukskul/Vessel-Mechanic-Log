@@ -1,0 +1,54 @@
+{
+  "plus": [
+    {
+      "type": "plus",
+      "title": "Miscellaneous / Custom Tasks",
+      "sectionInfo": {
+        "description": "General-purpose task type for unusual or one-off jobs not covered by standard categories."
+      },
+      "plusDetails": [
+        {
+          "title": "Install Custom Bracket",
+          "type": "Fabrication",
+          "description": "Customer requested a custom aluminum bracket mounted beneath the helm.",
+          "details": "Bracket mounted using existing holes. Required shaping and drilling.",
+          "materials": "Aluminum plate, stainless screws",
+          "hardwareSize": "1/4” screws",
+          "estimatedTime": "1.5 hr",
+          "condition": "Installed securely, no vibration",
+          "mechanicNotes": "Customer wants paint matched later. Ensure bracket clears wiring harness.",
+          "photos": [
+            "images/plus/custom_bracket_1.jpg",
+            "images/plus/custom_bracket_2.jpg"
+          ]
+        },
+        {
+          "title": "Remove Old Electronics",
+          "type": "Removal",
+          "description": "Removed legacy radar control box to clear space for new unit.",
+          "details": "Disconnected wiring harness, capped power feed.",
+          "materials": "",
+          "hardwareSize": "Phillips screws",
+          "estimatedTime": "45 min",
+          "condition": "Area cleaned and surface wiped",
+          "mechanicNotes": "",
+          "photos": []
+        },
+        {
+          "title": "Identify Unknown Leak",
+          "type": "Troubleshooting",
+          "description": "Investigated water intrusion near port bilge.",
+          "details": "Tested hose fittings, thru-hulls, and AC drain.",
+          "materials": "",
+          "hardwareSize": "",
+          "estimatedTime": "2 hr",
+          "condition": "Leak traced to cracked hose barb",
+          "mechanicNotes": "Recommend replacing 1-inch barb next visit.",
+          "photos": [
+            "images/plus/leak_area.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}

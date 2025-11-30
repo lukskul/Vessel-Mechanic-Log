@@ -1,0 +1,60 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine Couplers",
+      "sectionInfo": {
+        "description": "Coupler to engine transmission flange."
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "STBD",
+          "info": "",
+          "Coupler Bolt": "790 ft-lbs",
+          "Retaining Nut": "m12 Allen Tourque 180 ft-lbs",
+          "Safety Lock": "Wire",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        }
+      ]
+    },
+    {
+      "title": { "en": "Tosional Coupler", "es": "Acoplamiento Torsional" },
+      "sectionInfo": {
+        "description": "Isolates and dampens torsional vibrations and shocks protecting from damage."
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/icons/torsionalCoupler.svg"]
+        }
+      ]
+    }
+  ]
+}

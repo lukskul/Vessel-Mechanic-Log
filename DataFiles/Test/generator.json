@@ -1,9 +1,74 @@
 {
-  "generatorDetails": [
+  "generator": [
     {
-      "Mount Stud": "",
-      "Mount": ""
+      "type": "generator",
+      "title": {
+        "en": "Primary Generator",
+        "es": "Generador Principal"
+      },
+      "description": {
+        "en": "Main onboard generator providing AC power to vessel systems.",
+        "es": "Generador principal a bordo que suministra energía a los sistemas del barco."
+      },
 
+      "sides": [
+        {
+          "position": {
+            "en": "Port Side",
+            "es": "Lado de Babor"
+          },
+
+          "brand": "Onan",
+          "model": "MDKBP",
+          "kilowatts": "11.5 kW",
+          "voltage": "120/240V",
+
+          "mounts": [
+            {
+              "Title": {
+                "en": "Mounting Specs",
+                "es": "Especificaciones de Montaje"
+              },
+              "type": "Isolation Mounts",
+              "height": "4 inches",
+              "alignment_notes": "Mounts appear worn; recommend inspection."
+            }
+          ],
+
+          "photos": [
+            "https://example.com/generator1.jpg",
+            "https://example.com/generator2.jpg"
+          ]
+        },
+
+        {
+          "position": {
+            "en": "Starboard Side",
+            "es": "Lado de Estribor"
+          },
+
+          "brand": "Northern Lights",
+          "model": "M843NW3",
+          "kilowatts": "16 kW",
+          "voltage": "240V",
+
+          "mounts": [
+            {
+              "Title": {
+                "en": "Mounting Specs",
+                "es": "Especificaciones de Montaje"
+              },
+              "type": "Solid Mounts",
+              "height": "3.5 inches",
+              "alignment_notes": ""
+            }
+          ],
+
+          "photos": [
+            "https://example.com/generator3.jpg"
+          ]
+        }
+      ]
     }
   ]
 }

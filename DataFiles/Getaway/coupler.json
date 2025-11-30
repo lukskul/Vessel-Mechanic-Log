@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "265 ft-lbs Coupler bolt Torque Spec",
+          "Retaining Nut": "",
+          "Safety Lock": "M10 x 2 Set Screws.  Cotter Pin two 1/4\" x 2-1/2\"",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        }        
+      ]
+    }
+  ]
+}

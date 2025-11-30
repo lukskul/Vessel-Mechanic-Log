@@ -1,9 +1,43 @@
-{
-  "engineDetails": [
-    {
-      "Mount Stud": "1-1/2\"",
-      "Mount": "3/4\""
 
+{
+  "engine": [
+    {
+      "title": { "en": "Main Engines" },
+      "description": { "en": "" },
+      "sides": [
+        {
+          "position": { "en": "Port" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "mountType": "", 
+              "mountBolt": "",
+              "mount": "",
+              "notes": ""
+            }
+          ],
+          "photos": [""]
+        },        
+        {
+          "position": { "en": "Stbd" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "mountType": "", 
+              "mountBolt": "1-1/2\"",
+              "mount": "3/4\"",
+              "notes": ""
+            }
+          ],
+          "photos": [""]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,52 @@
+  {
+  "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "15/16\"",
+          "nutRestraint": "Cotter Pin",
+          "pullingHoles": "3/8\"",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "LH Port",
+          "serialNumber": "",
+          "info": ""
+        },
+        {
+          "direction": "RH Stbd",
+          "serialNumber": "",
+          "info": ""
+        }        
+      ]
+    },
+        {
+      "title": "Stern Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "15/16\"",
+          "nutRestraint": "Cotter Pin",
+          "pullingHoles": "3/8\"",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "LH Port",
+          "serialNumber": "",
+          "info": ""
+        },        
+        {
+          "direction": "RH Stbd",
+          "serialNumber": "",
+          "info": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "prop": [
+    {
+      "title": { "en": "Mains", "es": "" },
+
+      "sectionInfo": {
+        "description": {
+          "en": "",
+          "es": ""
+        }
+      },
+
+      "labels": {
+        "serial": { "en": "Serial Num.", "es": "Número de Serie" },
+        "info": { "en": "Info", "es": "Información" },
+
+        "nutSection": { "en": "Prop Nut:", "es": "Tuerca:" },
+        "nutSize": { "en": "Nut Size", "es": "Tamaño de la Tuerca" },
+        "nutRestraint": { "en": "Nut Restraint", "es": "Restricción de la Tuerca" },
+        "pullingHoles": { "en": "Pulling Holes", "es": "Agujeros de Extracción" },
+
+        "specsSection": { "en": "Specs:", "es": "Especificaciones:" },
+        "diameterPitch": { "en": "Dia. x Pitch", "es": "Diámetro x Paso" },
+        "markings": { "en": "Markings", "es": "Marcas" },
+        "bore": { "en": "Bore", "es": "Agujero" },
+        "material": { "en": "Material", "es": "Material" }
+      },
+
+      "propDetails": [
+        {
+          "direction": "LH Port",
+          "serialNumber": "",
+          "info": {
+            "en": "5 Blade",
+            "es": ""
+          }
+        },
+        {
+          "direction": "RH Stbd",
+          "serialNumber": "CP11935",
+          "info": {
+            "en": "5 Blade",
+            "es": ""
+          }
+        }        
+      ],
+
+      "specs": {
+        "propNutSize": "",
+        "nutRestraint": "",
+        "pullingHoles": "",
+        "diameterPitch": "48\" diam. x 52\" pitch",
+        "markings": "",
+        "bore": "",
+        "material": "Ni-bral"
+      }
+    }
+    
+  ]
+}

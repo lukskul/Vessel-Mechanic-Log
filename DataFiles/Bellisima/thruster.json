@@ -1,0 +1,32 @@
+{
+  "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "1-1/8\"",
+          "nutRestraint": "3/16\" Allen",
+          "pullingHoles": "",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "LH",
+          "serialNumber": "",
+          "info": ""
+        },
+        {
+          "direction": "RH",
+          "serialNumber": "",
+          "info": ""
+        }        
+      ]
+    }
+  ]
+}
+
+
+
+

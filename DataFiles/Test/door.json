@@ -1,0 +1,66 @@
+{
+  "doors": [
+    {
+      "type": "door",
+      "title": "Doors & Hatches",
+      "sectionInfo": {
+        "description": "Inspection, removal, alignment, and hardware documentation for vessel doors, hatches, and access panels."
+      },
+      "doorDetails": [
+        {
+          "location": "Engine Room Access Door",
+          "type": "Swing Door",
+          "material": "Aluminum",
+          "size": "24\" x 36\"",
+          "hinges": "3 stainless hinges (good condition)",
+          "latches": "Compression latch",
+          "hardwareSize": "1/4” bolts",
+          "seals": "Rubber gasket, 70% remaining",
+          "condition": "General wear, scratches, seals slightly dry",
+          "alignment": "Rubs on lower right corner",
+          "drainage": "No drain channels present",
+          "waterTightness": "Not watertight (engine room only)",
+          "mechanicNotes": "Recommend replacing gasket next visit. Adjust hinge spacing to correct alignment.",
+          "photos": [
+            "images/doors/engine_room_door_1.jpg",
+            "images/doors/engine_room_door_2.jpg"
+          ]
+        },
+        {
+          "location": "Lazarette Hatch",
+          "type": "Lift-Up Hatch",
+          "material": "Fiberglass",
+          "size": "20\" x 20\"",
+          "hinges": "2 stainless hinges",
+          "latches": "Friction latch",
+          "hardwareSize": "3/16” screws",
+          "seals": "Foam gasket (worn)",
+          "condition": "Hatch is solid, seal partially detached",
+          "alignment": "Sits flush",
+          "drainage": "Integrated drain channel",
+          "waterTightness": "Splash-resistant, not airtight",
+          "mechanicNotes": "",
+          "photos": [
+            "images/doors/lazarette_hatch_1.jpg"
+          ]
+        },
+        {
+          "location": "Helm Console Door",
+          "type": "Sliding Door",
+          "material": "Plastic / Acrylic",
+          "size": "18\" x 30\"",
+          "hinges": "",
+          "latches": "Slider latch",
+          "hardwareSize": "",
+          "seals": "No gaskets",
+          "condition": "Slider track sticky, plastic slightly yellowed",
+          "alignment": "Tracks properly but noisy",
+          "drainage": "None",
+          "waterTightness": "Not watertight",
+          "mechanicNotes": "Track should be lubricated. Recommend replacement if discoloration bothers owner.",
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

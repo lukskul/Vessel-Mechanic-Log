@@ -1,9 +1,90 @@
 {
-  "motorDetails": [
+  "motor": [
     {
-      "Mount Stud": "",
-      "Mount": ""
+      "type": "motor",
+      "title": {
+        "en": "Electric Motor",
+        "es": "Motor Eléctrico"
+      },
+      "description": {
+        "en": "Electric motor removed for service. Includes mounting hardware and coupler details.",
+        "es": "Motor eléctrico retirado para servicio. Incluye hardware de montaje y detalles del acoplador."
+      },
 
+      "sides": [
+        {
+          "position": {
+            "en": "Engine Room - Forward Port",
+            "es": "Cuarto de Máquinas - Proa Babor"
+          },
+
+          "brand": "Baldor",
+          "model": "EM3315T",
+          "power": "5 HP",
+          "voltage": "230/460V",
+          "origin": "Came from hydraulic pump system",
+          "function": "Drives hydraulic pump for steering",
+
+          "mounts": [
+            {
+              "Title": {
+                "en": "Mounting Hardware",
+                "es": "Hardware de Montaje"
+              },
+              "type": "Foot Mount",
+              "bolt_size": "1/2-inch bolts",
+              "notes": "Two rear bolts were seized; replaced on removal."
+            }
+          ],
+
+          "coupler": {
+            "type": "Jaw Coupler",
+            "size": "L100",
+            "notes": "Rubber spider worn—needs replacement."
+          },
+
+          "photos": [
+            "https://example.com/motor1.jpg",
+            "https://example.com/motor2.jpg"
+          ]
+        },
+
+        {
+          "position": {
+            "en": "Bilge - Starboard Aft",
+            "es": "Sentina - Estribor Popa"
+          },
+
+          "brand": "Leeson",
+          "model": "192082.00",
+          "power": "3/4 HP",
+          "voltage": "115/230V",
+          "origin": "Came from freshwater pump",
+          "function": "Runs freshwater circulation pump",
+
+          "mounts": [
+            {
+              "Title": {
+                "en": "Mounting Hardware",
+                "es": "Hardware de Montaje"
+              },
+              "type": "Face Mount",
+              "bolt_size": "3/8-inch bolts",
+              "notes": ""
+            }
+          ],
+
+          "coupler": {
+            "type": "Flex Coupler",
+            "size": "3/4\" bore",
+            "notes": ""
+          },
+
+          "photos": [
+            "https://example.com/motor3.jpg"
+          ]
+        }
+      ]
     }
   ]
 }

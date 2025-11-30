@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine Shaft Coupler",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },        
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "1-5/16\"",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "prop": [
+    {
+      "title": { "en": "Mains", "es": "" },
+
+      "sectionInfo": {
+        "description": {
+          "en": "",
+          "es": ""
+        }
+      },
+
+      "labels": {
+        "serial": { "en": "Serial Num.", "es": "Número de Serie" },
+        "info": { "en": "Info", "es": "Información" },
+
+        "nutSection": { "en": "Prop Nut:", "es": "Tuerca:" },
+        "nutSize": { "en": "Nut Size", "es": "Tamaño de la Tuerca" },
+        "nutRestraint": { "en": "Nut Restraint", "es": "Restricción de la Tuerca" },
+        "pullingHoles": { "en": "Pulling Holes", "es": "Agujeros de Extracción" },
+
+        "specsSection": { "en": "Specs:", "es": "Especificaciones:" },
+        "diameterPitch": { "en": "Dia. x Pitch", "es": "Diámetro x Paso" },
+        "markings": { "en": "Markings", "es": "Marcas" },
+        "bore": { "en": "Bore", "es": "Agujero" },
+        "material": { "en": "Material", "es": "Material" }
+      },
+
+      "propDetails": [
+        {
+          "direction": "LH",
+          "serialNumber": "",
+          "info": {
+            "en": "Three 1/2\" x 15\"Allthread",
+            "es": ""
+          }
+        },
+        {
+          "direction": "RH",
+          "serialNumber": "",
+          "info": {
+            "en": "Three 1/2\" x 15\"Allthread",
+            "es": ""
+          }
+        }        
+      ],
+
+      "specs": {
+        "propNutSize": "",
+        "nutRestraint": "1/4\" x 3\" Cotter Pin",
+        "pullingHoles": "Three 1/2\"",
+        "diameterPitch": "",
+        "markings": "",
+        "bore": "",
+        "material": ""
+      }
+    }
+    
+  ]
+}

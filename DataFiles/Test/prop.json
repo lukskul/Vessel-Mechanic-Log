@@ -1,0 +1,94 @@
+{
+  "prop": [
+    {
+      "title": { "en": "Mains", "es": "Principal" },
+
+      "sectionInfo": {
+        "description": {
+          "en": "Propeller system information including port and starboard blades.",
+          "es": "Información del sistema de hélices incluyendo babor y estribor."
+        }
+      },
+
+      "labels": {
+        "serial": { "en": "Serial Num.", "es": "Número de Serie" },
+        "info": { "en": "Info", "es": "Información" },
+
+        "nutSection": { "en": "Prop Nut:", "es": "Tuerca:" },
+        "nutSize": { "en": "Nut Size", "es": "Tamaño de la Tuerca" },
+        "nutRestraint": { "en": "Nut Restraint", "es": "Restricción de la Tuerca" },
+        "pullingHoles": { "en": "Pulling Holes", "es": "Agujeros de Extracción" },
+
+        "specsSection": { "en": "Specs:", "es": "Especificaciones:" },
+        "diameterPitch": { "en": "Dia. x Pitch", "es": "Diámetro x Paso" },
+        "markings": { "en": "Markings", "es": "Marcas" },
+        "bore": { "en": "Bore", "es": "Agujero" },
+        "material": { "en": "Material", "es": "Material" }
+      },
+
+      "propDetails": [
+        {
+          "direction": "PORT OB LH",
+          "serialNumber": "XYZ123",
+          "info": {
+            "en": "Prop is in good condition.",
+            "es": "La hélice está en buena condición."
+          }
+        },
+                {
+          "direction":  "PORT IB LH",
+          "serialNumber": "XYZ123",
+          "info": {
+            "en": "Prop is in good condition.",
+            "es": "La hélice está en buena condición."
+          }
+        },
+                {
+          "direction": "STBD IB RH",
+          "serialNumber": "XYZ123",
+          "info": {
+            "en": "Prop is in good condition.",
+            "es": "La hélice está en buena condición."
+          }
+        },
+                {
+          "direction":  "STBD OB RH",
+          "serialNumber": "XYZ123",
+          "info": {
+            "en": "Prop is in good condition.",
+            "es": "La hélice está en buena condición."
+          }
+        }
+      ],
+
+      "specs": {
+        "propNutSize": "2\"",
+        "nutRestraint": "Cotter Pin 1/4\" x 2\"",
+        "pullingHoles": "3/8\"",
+        "diameterPitch": "20 x 25",
+        "markings": "MP-123",
+        "bore": "1.25\"",
+        "material": "Ni-BrAl"
+      }
+    },
+    {
+      "title": { "en": "Spare", "es": "Repuesto" },
+
+      "sectionInfo": {
+        "description": ""
+      },
+
+      "propDetails": [
+        {
+          "direction":  "RH",
+          "serialNumber": "XYZ3",
+          "info": {
+            "en": "Prop is in good condition.",
+            "es": "La hélice está en buena condición."
+          }
+        }
+      ]
+    }
+    
+  ]
+}

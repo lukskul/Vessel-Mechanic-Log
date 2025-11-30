@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "M16 1.5 M8.8 Torque Lubricated 130 ft-lb",
+          "Retaining Nut": "None",
+          "Safety Lock": "1/2\" Set Screws w/ wire",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        }  
+      ]
+    }
+  ]
+}

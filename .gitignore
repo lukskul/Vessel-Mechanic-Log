@@ -12,7 +12,13 @@ pnpm-debug.log*
 .env.local
 .env.development.local
 .env.test.local
-.env.production.local
+.env.production.
+
+webpack-config.js
+watcher.js
+server.js
+package.json 
+package-lock.json
 
 # Ignore build output
 build/
@@ -30,4 +36,6 @@ JsonTemplates/
 # Ignore CSS and JS source folders
 App/css/
 App/js/
+App/language/
+App/index.html
 

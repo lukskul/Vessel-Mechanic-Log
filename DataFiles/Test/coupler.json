@@ -1,0 +1,50 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine Couplers",
+      "sectionInfo": {
+        "description": "All couplers connecting the engine to the main shaft."
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "Check alignment before installation",
+          "Coupler Bolt": "M10 x 50mm",
+          "Retaining Nut": "M10",
+          "Safety Lock": "Spring Pin",
+          "Removal Info": "Loosen bolts in cross pattern",
+          "mechanicNotes": "Replace bolts if corroded",
+          "photos": ["images/main_port.jpg"]
+        },
+        {
+          "location": "STBD",
+          "info": "Minor wear observed",
+          "Coupler Bolt": "M10 x 50mm",
+          "Retaining Nut": "M10",
+          "Safety Lock": "Spring Pin",
+          "Removal Info": "Loosen bolts carefully",
+          "mechanicNotes": "",
+          "photos": ["images/main_stbd.jpg"]
+        }
+      ]
+    },
+    {
+      "title": "Dampener Couplers",
+      "sectionInfo": {
+        "description": "Couplers connecting dampeners along the shaft."
+      },
+      "couplerDetails": [
+        {
+          "location": "Center",
+          "info": "Inspect safety lock",
+          "Coupler Bolt": "M8 x 40mm",
+          "Retaining Nut": "M8",
+          "Safety Lock": "Cotter Pin",
+          "Removal Info": "Remove retaining nut first",
+          "mechanicNotes": "Lubricate bolts before installation",
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,52 @@
 {
-    "anchorDetails": [
-      {
-        "length": "", 
-        "markings": "",
-        "material": ""
+  "anchor": [
+    {
+      "title": {
+        "en": "Anchor System",
+        "es": "Sistema de Ancla"
       },
-      {
-        "info": ""
-      }
-    ]
-  }
+      "description": {
+        "en": "Anchor system details including chain size, chain length, and windlass specifications for each side.",
+        "es": "Detalles del sistema de ancla, incluyendo tamaño y longitud de la cadena y especificaciones del molinete para cada lado."
+      },
+      "sides": [
+        {
+          "position": {
+            "en": "PORT",
+            "es": "PORT"
+          },
+          "anchorType": "",
+          "anchorWeight": "",
+          "chain_size": "",
+          "chain_length": "",
+          "windlass": {
+            "brand": "",
+            "model": "",
+            "specs": "",
+            "notes": ""
+          },
+          "mechanicNotes": "",
+          "photos": []
+        },
+        {
+          "position": {
+            "en": "STBD",
+            "es": "STBD"
+          },
+          "anchorType": "Plow",
+          "anchorWeight": "45 lb",
+          "chain_size": "3/8\"",
+          "chain_length": "200 ft",
+          "windlass": {
+            "brand": "Lewmar",
+            "model": "Pro-Series 1000",
+            "specs": "12V",
+            "notes": ""
+          },
+          "mechanicNotes": "",
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

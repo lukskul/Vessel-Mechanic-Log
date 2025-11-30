@@ -1,0 +1,25 @@
+{
+  "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "",
+          "nutRestraint": "",
+          "pullingHoles": "3/8-16\"",
+          "diameter x pitch": "22\"diam x 21\"pitch",
+          "markings": "Michagen Wheels THRUSTER",
+          "bore": "1.25\"",
+          "material": "Ni-bral"
+        },
+        {
+          "direction": "RH",
+          "serialNumber": "460310",
+          "info": "BowThruster"
+        }
+      ]
+    }
+  ]
+}
+
+

@@ -1,12 +1,57 @@
 {
-    "seascreenDetails": [
-      {
-        "count": "", 
-        "markings": "",
-        "material": ""
+  "seaScreens": [
+    {
+      "type": "seaScreen",
+      "title": "Sea Screens",
+      "sectionInfo": {
+        "description": "Inspection, documentation, and service details for intake sea screens including hardware, zinc condition, and mesh status."
       },
-      {
-        "info": ""
-      }
-    ]
-  }
+      "screenDetails": [
+        {
+          "location": "Port Engine Intake",
+          "hardwareSize": "1/2” stainless",
+          "thruBolts": "Yes",
+          "numberOfBolts": "6",
+          "hasInternalZincs": "Yes",
+          "zincCondition": "Approximately 40% remaining",
+          "screenCondition": "Moderate fouling, cleaned during service",
+          "portSize": "2-inch",
+          "housingType": "Bronze",
+          "mechanicNotes": "Screen was heavily crusted. Recommend checking again within 30 days.",
+          "photos": [
+            "images/seascreen/port_screen_1.jpg",
+            "images/seascreen/port_screen_2.jpg"
+          ]
+        },
+        {
+          "location": "Starboard Engine Intake",
+          "hardwareSize": "3/8” bronze",
+          "thruBolts": "No",
+          "numberOfBolts": "4",
+          "hasInternalZincs": "No",
+          "zincCondition": "",
+          "screenCondition": "Good condition, light debris removed",
+          "portSize": "1.5-inch",
+          "housingType": "Plastic",
+          "mechanicNotes": "",
+          "photos": [
+            "images/seascreen/starboard_screen_1.jpg"
+          ]
+        },
+        {
+          "location": "Generator Intake",
+          "hardwareSize": "",
+          "thruBolts": "Unknown",
+          "numberOfBolts": "",
+          "hasInternalZincs": "Unknown",
+          "zincCondition": "Unable to inspect without full disassembly",
+          "screenCondition": "Minor corrosion on housing screws",
+          "portSize": "",
+          "housingType": "Bronze",
+          "mechanicNotes": "Recommend future removal and bench inspection.",
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "2\"",
+          "nutRestraint": "Cotter Pin 1/4\" x 2\"",
+          "pullingHoles": "3/8\"",
+          "diameter x pitch": "20\"dia x 25\" pitch",
+          "markings": "Michagen Wheels",
+          "bore": "1.5\"",
+          "material": "Ni-bral"
+        },
+        {
+          "direction": "LH Port",
+          "serialNumber": "234",
+          "info": "Prop is good"
+        },
+        {
+          "direction": "RH Stbd",
+          "serialNumber": "123",
+          "info": "Weld repair needed"
+        }
+      ]
+    },
+        {
+      "title": "Stern Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "2\"",
+          "nutRestraint": "Cotter Pin 1/4\" x 2\"",
+          "pullingHoles": "3/8\"",
+          "diameter x pitch": "20\"dia x 25\" pitch",
+          "markings": "Michagen Wheels",
+          "bore": "1.5\"",
+          "material": "Ni-bral"
+        },
+        {
+          "direction": "LH Port",
+          "serialNumber": "456",
+          "info": "Prop is good"
+        },
+        {
+          "direction": "RH Stbd",
+          "serialNumber": "345",
+          "info": "Prop is Good Shaft is eroding"
+        }
+      ]
+    }
+  ]
+}

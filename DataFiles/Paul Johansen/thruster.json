@@ -1,0 +1,23 @@
+{
+ "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "",
+          "nutRestraint": "1-7/8\"",
+          "pullingHoles": "",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "",
+          "serialNumber": "",
+          "info": ""
+        }
+      ]
+    }
+  ]
+}

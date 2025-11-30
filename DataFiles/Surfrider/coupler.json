@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine Couplers",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "30 mm Custom Chrome socket",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        }        
+      ]
+    }
+  ]
+}

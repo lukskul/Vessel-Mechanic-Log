@@ -1,19 +1,82 @@
 {
-    "rudderDetails": [
-      {
-        "position": "",
-        "info": "", 
-  
-        "shaftNut": "", 
-        "pinchBolts": "",
-        "nutRestraint": "",
-        "setScrews": "",
-        "bearing": ""
-
+  "rudder": [
+    {
+      "type": "rudder",
+      "title": {
+        "en": "Rudder Inspection",
+        "es": "Inspección de Timón"
       },
-      {
-        "position": "",
-        "info": ""
-      }
-    ]
+      "description": {
+        "en": "Document the rudder condition, tiller arm, hydraulic rams, and bearings.",
+        "es": "Documente la condición del timón, el brazo de timón, los cilindros hidráulicos y los cojinetes."
+      },
+      "sides": [
+        {
+          "position": {
+            "en": "Port Rudder",
+            "es": "Timón de Babor"
+          },
+          "material": "Stainless Steel",
+          "shaft_diameter": "2 inches",
+          "notes": "No leaks detected",
+          "tiller_arm": {
+            "removed": true,
+            "condition": "Good",
+            "notes": "Slight corrosion on bolts"
+          },
+          "hydraulic_rams": [
+            {
+              "removed": false,
+              "condition": "Fair",
+              "notes": "Minor hydraulic leak"
+            }
+          ],
+          "bearings": [
+            {
+              "type": "Cutless Bearing",
+              "installation": "Press fit with grease",
+              "condition": "Good",
+              "notes": "Monitor after 100 hours"
+            }
+          ],
+          "photos": [
+            "images/rudder/port_rudder_1.jpg",
+            "images/rudder/port_rudder_2.jpg"
+          ]
+        },
+        {
+          "position": {
+            "en": "Starboard Rudder",
+            "es": "Timón de Estribor"
+          },
+          "material": "Aluminum",
+          "shaft_diameter": "2 inches",
+          "notes": "Shaft alignment slightly off",
+          "tiller_arm": {
+            "removed": false,
+            "condition": "Worn",
+            "notes": "Requires lubrication"
+          },
+          "hydraulic_rams": [
+            {
+              "removed": true,
+              "condition": "Good",
+              "notes": "Seals replaced recently"
+            }
+          ],
+          "bearings": [
+            {
+              "type": "Cutless Bearing",
+              "installation": "Split collar keyed",
+              "condition": "Worn",
+              "notes": "Replace at next dry dock"
+            }
+          ],
+          "photos": [
+            "images/rudder/starboard_rudder_1.jpg"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -1,12 +1,57 @@
 {
-    "shaftDetails": [
-      {
-        "length": "", 
-        "markings": "",
-        "material": ""
+  "shafts": [
+    {
+      "type": "shaft",
+      "title": "Propeller Shaft & Bearings",
+      "sectionInfo": {
+        "description": "Inspection and documentation of propeller shafts, cutless bearings, and alignment. Record installation, condition, and maintenance notes."
       },
-      {
-        "info": ""
-      }
-    ]
-  }
+      "shaftDetails": [
+        {
+          "location": "Port Engine Shaft",
+          "bearingType": "Cutless Bearing",
+          "manufacturer": "BronzeCo",
+          "model": "CB-200",
+          "installation": "Press fit, greased",
+          "condition": "Good, minor wear",
+          "alignmentNotes": "Shaft aligned with slight offset on aft coupling",
+          "shaftSize": "1.5-inch diameter",
+          "notes": "Bearing lubrication OK, no vibration detected",
+          "mechanicNotes": "Inspect after 100 hours of operation",
+          "photos": [
+            "images/shafts/port_shaft_bearing_1.jpg",
+            "images/shafts/port_shaft_bearing_2.jpg"
+          ]
+        },
+        {
+          "location": "Starboard Engine Shaft",
+          "bearingType": "Cutless Bearing",
+          "manufacturer": "MarineBearings",
+          "model": "CB-150",
+          "installation": "Installed with split collar, keyed",
+          "condition": "Worn, consider replacement",
+          "alignmentNotes": "Shaft perfectly aligned, slight noise at high rpm",
+          "shaftSize": "1.25-inch diameter",
+          "notes": "Monitor vibration, check oil seal",
+          "mechanicNotes": "",
+          "photos": [
+            "images/shafts/starboard_shaft_bearing_1.jpg"
+          ]
+        },
+        {
+          "location": "Generator Shaft",
+          "bearingType": "Sleeve Bearing",
+          "manufacturer": "GenBear",
+          "model": "GB-75",
+          "installation": "Greased, standard fit",
+          "condition": "Good",
+          "alignmentNotes": "",
+          "shaftSize": "1-inch diameter",
+          "notes": "Lubrication adequate, no signs of heat",
+          "mechanicNotes": "Check alignment during next service",
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

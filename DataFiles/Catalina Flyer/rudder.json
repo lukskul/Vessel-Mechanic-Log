@@ -1,19 +1,98 @@
 {
-    "rudderDetails": [
-      {
-        "position": "Port",
-        "info": "", 
-
-        "shaftNut": "3\"",
-        "pinchBolts": "None",
-        "nutRestraint": "3/16\" x 5\" cotter pin",
-        "setScrews": "None",
-        "bearing": "Composite Bearing Freeze Fit"
-
+  "rudder": [
+    {
+      "type": "",
+      "title": {
+        "en": "",
+        "es": ""
       },
-      {
-        "position": "Stbd",
-        "info": ""
-      }
-    ]
+      "description": {
+        "en": "",
+        "es": ""
+      },
+
+      "sides": [
+        {
+          "position": {
+            "en": "Port",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "position": {
+            "en": "Stbd",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "3\"",
+          "notes": "",
+
+          "tiller_arm": {
+            "pinchBolts": "none",
+            "nutSize":"", 
+            "nutRestraint": "3/16\" x 5\" cotter pin",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
 }
+
+
+

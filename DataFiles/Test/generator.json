@@ -36,8 +36,7 @@
           ],
 
           "photos": [
-            "https://example.com/generator1.jpg",
-            "https://example.com/generator2.jpg"
+            ""
           ]
         },
 
@@ -65,7 +64,7 @@
           ],
 
           "photos": [
-            "https://example.com/generator3.jpg"
+            ""
           ]
         }
       ]

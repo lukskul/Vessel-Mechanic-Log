@@ -44,8 +44,7 @@
           },
 
           "photos": [
-            "https://example.com/motor1.jpg",
-            "https://example.com/motor2.jpg"
+            ""
           ]
         },
 
@@ -81,7 +80,7 @@
           },
 
           "photos": [
-            "https://example.com/motor3.jpg"
+            ""
           ]
         }
       ]

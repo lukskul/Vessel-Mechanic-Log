@@ -18,8 +18,7 @@
           "condition": "Installed securely, no vibration",
           "mechanicNotes": "Customer wants paint matched later. Ensure bracket clears wiring harness.",
           "photos": [
-            "images/plus/custom_bracket_1.jpg",
-            "images/plus/custom_bracket_2.jpg"
+            ""
           ]
         },
         {
@@ -32,7 +31,7 @@
           "estimatedTime": "45 min",
           "condition": "Area cleaned and surface wiped",
           "mechanicNotes": "",
-          "photos": []
+          "photos": [""]
         },
         {
           "title": "Identify Unknown Leak",
@@ -45,7 +44,7 @@
           "condition": "Leak traced to cracked hose barb",
           "mechanicNotes": "Recommend replacing 1-inch barb next visit.",
           "photos": [
-            "images/plus/leak_area.jpg"
+            ""
           ]
         }
       ]

@@ -22,8 +22,7 @@
           "waterTightness": "Not watertight (engine room only)",
           "mechanicNotes": "Recommend replacing gasket next visit. Adjust hinge spacing to correct alignment.",
           "photos": [
-            "images/doors/engine_room_door_1.jpg",
-            "images/doors/engine_room_door_2.jpg"
+            ""
           ]
         },
         {
@@ -41,7 +40,7 @@
           "waterTightness": "Splash-resistant, not airtight",
           "mechanicNotes": "",
           "photos": [
-            "images/doors/lazarette_hatch_1.jpg"
+            ""
           ]
         },
         {
@@ -58,7 +57,7 @@
           "drainage": "None",
           "waterTightness": "Not watertight",
           "mechanicNotes": "Track should be lubricated. Recommend replacement if discoloration bothers owner.",
-          "photos": []
+          "photos": [""]
         }
       ]
     }

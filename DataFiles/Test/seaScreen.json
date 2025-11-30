@@ -19,8 +19,7 @@
           "housingType": "Bronze",
           "mechanicNotes": "Screen was heavily crusted. Recommend checking again within 30 days.",
           "photos": [
-            "images/seascreen/port_screen_1.jpg",
-            "images/seascreen/port_screen_2.jpg"
+            ""
           ]
         },
         {
@@ -35,7 +34,7 @@
           "housingType": "Plastic",
           "mechanicNotes": "",
           "photos": [
-            "images/seascreen/starboard_screen_1.jpg"
+            ""
           ]
         },
         {
@@ -49,7 +48,7 @@
           "portSize": "",
           "housingType": "Bronze",
           "mechanicNotes": "Recommend future removal and bench inspection.",
-          "photos": []
+          "photos": [""]
         }
       ]
     }

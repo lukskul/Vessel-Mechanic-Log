@@ -24,7 +24,7 @@
           "Safety Lock": "Spring Pin",
           "Removal Info": "Loosen bolts carefully",
           "mechanicNotes": "",
-          "photos": ["images/main_stbd.jpg"]
+          "photos": [""]
         }
       ]
     },
@@ -42,7 +42,7 @@
           "Safety Lock": "Cotter Pin",
           "Removal Info": "Remove retaining nut first",
           "mechanicNotes": "Lubricate bolts before installation",
-          "photos": []
+          "photos": [""]
         }
       ]
     }

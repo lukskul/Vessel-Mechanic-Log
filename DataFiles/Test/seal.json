@@ -22,7 +22,7 @@
           "bolt_size": "M6",
           "torque_value": "15 Nm",
           "mechanicNotes": "",
-          "photos": []
+          "photos": [""]
         },
         {
           "location": "PORT",
@@ -40,7 +40,7 @@
           "bolt_size": "M6",
           "torque_value": "15 Nm",
           "mechanicNotes": "",
-          "photos": []
+          "photos": [""]
         }
       ]
     },
@@ -84,7 +84,7 @@
           "bolt_size": "M8",
           "torque_value": "25 Nm",
           "mechanicNotes": "",
-          "photos": []
+          "photos": [""]
         }
       ]
     }

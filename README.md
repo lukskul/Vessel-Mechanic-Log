@@ -14,23 +14,23 @@
 ## Page builds  
 - [x] info.json  
 - [x] thruster.json  
-- [ ] anchor.json  
-- [ ] engine.json  
-- [ ] coupler.json  
+- [x] anchor.json  
+- [x] engine.json  
+- [x] coupler.json  
 - [x] seals.json  
-- [ ] shaft.json  
+- [x] shaft.json  
 - [x] props.json  
-- [ ] rudder.json  
-- [ ] seascreens.json  
+- [x] rudder.json  
+- [x] seascreens.json  
 - [x] zinc.json  
-- [ ] door.json  
-- [ ] generator.json  
-- [ ] motor.json  
-- [ ] plus.json
+- [x] door.json  
+- [x] generator.json  
+- [x] motor.json  
+- [x] plus.json
 
 ## Progress  
 ```
-[####-----------------] 37%
+[#################] 100%
 
  ```
- ### _Good luck!_
+ ### _Great Job!_

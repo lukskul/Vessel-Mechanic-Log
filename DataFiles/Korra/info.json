@@ -1,0 +1,21 @@
+{
+    "shipDetails": {
+      "type": "Sailing Vessel",
+      "manufacturer": "",
+      "imoNumber": "",
+      "mmsiNumber": "538072134",
+      "callSign": "V7A6490",
+      "flag": "Marshall Is.",
+      "yearBuilt": "",
+      "owner": "",
+      "homePort": "",
+      "length": "",
+      "beam": "",
+      "draft": "",
+      "grossTonnage": "",
+      "deadweightTonnage": "",
+      "engineType": "",
+      "enginePower": "",
+      "maxSpeed": ""
+    }
+}

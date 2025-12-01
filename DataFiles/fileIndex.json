@@ -1,8 +1,8 @@
 {
     "Acoustic Explorer": [
-        "thruster.json",
         "info.json",
-        "prop.json"
+        "prop.json",
+        "thruster.json"
     ],
     "Amore": [
         "coupler.json",
@@ -15,8 +15,8 @@
         "prop.json"
     ],
     "Bellisima": [
-        "thruster.json",
-        "info.json"
+        "info.json",
+        "thruster.json"
     ],
     "California Princess": [
         "coupler.json",
@@ -47,6 +47,11 @@
         "info.json",
         "prop.json"
     ],
+    "Korra": [
+        "info.json",
+        "prop.json",
+        "rudder.json"
+    ],
     "Legacy": [
         "info.json",
         "prop.json"
@@ -66,14 +71,15 @@
         "prop.json"
     ],
     "Paul Johansen": [
-        "thruster.json",
-        "info.json"
+        "info.json",
+        "thruster.json"
     ],
     "Phantom": [
-        "thruster.json",
         "coupler.json",
         "info.json",
-        "seal.json"
+        "rudder.json",
+        "seal.json",
+        "thruster.json"
     ],
     "Phonix": [
         "info.json"
@@ -108,20 +114,20 @@
     ],
     "Test": [
         "anchor.json",
-        "thruster.json",
         "coupler.json",
+        "door.json",
         "engine.json",
         "generator.json",
         "info.json",
         "motor.json",
+        "plus.json",
         "prop.json",
         "rudder.json",
-        "seal.json",
         "seaScreen.json",
+        "seal.json",
         "shaft.json",
-        "zinc.json", 
-        "door.json", 
-        "plus.json"
+        "thruster.json",
+        "zinc.json"
     ],
     "Triumphant": [
         "info.json",

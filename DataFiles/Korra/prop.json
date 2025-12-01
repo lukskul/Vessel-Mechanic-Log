@@ -5,7 +5,7 @@
 
       "sectionInfo": {
         "description": {
-          "en": "",
+          "en": "Feathering Props",
           "es": ""
         }
       },
@@ -28,31 +28,31 @@
 
       "propDetails": [
         {
-          "direction": "LH",
-          "serialNumber": "BDP150313",
+          "direction": "LH Port",
+          "serialNumber": "",
           "info": {
-            "en": "Pitch reduced from 32\"",
+            "en": "",
             "es": ""
           }
         },
         {
-          "direction": "RH",
-          "serialNumber": "BDP150312",
+          "direction": "RH Stbd",
+          "serialNumber": "",
           "info": {
-            "en": "Pitch reduced from 32\"",
+            "en": "",
             "es": ""
           }
         }        
       ],
 
       "specs": {
-        "propNutSize": "3-1/2\"",
-        "nutRestraint": "1/4\" x 4\" Cotter Pin",
-        "pullingHoles": "5/8\"",
-        "diameterPitch": "34\"d x 28\"p",
-        "markings": "MADE IN MEXICO",
-        "bore": "3\"",
-        "material": "Bronze"
+        "propNutSize": "",
+        "nutRestraint": "",
+        "pullingHoles": "",
+        "diameterPitch": "",
+        "markings": "",
+        "bore": "",
+        "material": ""
       }
     }
     

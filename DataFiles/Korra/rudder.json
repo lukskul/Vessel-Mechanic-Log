@@ -1,0 +1,99 @@
+{
+  "rudder": [
+    {
+      "type": "",
+      "title": {
+        "en": "Rudders",
+        "es": ""
+      },
+      "description": {
+        "en": "",
+        "es": ""
+      },
+
+      "sides": [
+                {
+          "position": {
+            "en": "Port",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "position": {
+            "en": "Stbd",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": "Allen 8mm and 5mm"
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "Jefa Rudders",
+              "installation": "Apoxy Resin",
+              "notes": "Do Not Put Grease Between Rollers"
+            }
+          ],
+
+          "photos": [
+            "https://lukskul.github.io/Vessel-Mechanic-Log/App/image/jefa.svg"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+

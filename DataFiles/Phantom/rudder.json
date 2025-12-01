@@ -1,0 +1,60 @@
+{
+  "rudder": [
+    {
+      "type": "",
+      "title": {
+        "en": "Rudder",
+        "es": ""
+      },
+      "description": {
+        "en": "",
+        "es": ""
+      },
+
+      "sides": [
+        {
+          "position": {
+            "en": "Steering Rams",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "six Jic caps size 8 or 7 plus two special caps",
+              "notes": "15/16\" for Mounting bolts."
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+

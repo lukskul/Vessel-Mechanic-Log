@@ -105,6 +105,12 @@
         "info.json",
         "prop.json"
     ],
+    "Steadfast": [
+        "coupler.json",
+        "info.json",
+        "prop.json",
+        "shaft.json"
+    ],
     "Surfrider": [
         "coupler.json",
         "info.json",

@@ -5,12 +5,12 @@
       "propDetails": [
         {
           "propNutSize": "1-1/8\"",
-          "nutRestraint": "3/16\" Allen",
+          "nutRestraint": "3/8\"",
           "pullingHoles": "",
           "diameter x pitch": "",
           "markings": "",
           "bore": "",
-          "material": ""
+          "material": "3/16\" Allen"
         },
         {
           "direction": "LH",

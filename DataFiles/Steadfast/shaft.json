@@ -1,0 +1,28 @@
+{
+  "shafts": [
+    {
+      "type": "",
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "shaftDetails": [
+        {
+          "location": "",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

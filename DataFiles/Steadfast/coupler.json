@@ -1,0 +1,40 @@
+{
+  "coupler": [
+    {
+      "title": "Port",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "Bolts To disc Brake",
+          "Coupler Bolt": "22m",
+          "Retaining Nut": "7/8\"",
+          "Safety Lock": "Wire",
+          "Removal Info": "",
+          "mechanicNotes": "400 ft lbs. Retaing Plate",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/discBrake.svg"]
+        }
+      ]
+    },
+        {
+      "title": "Stbd",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Stbd",
+          "info": "Bolts To disc Brake",
+          "Coupler Bolt": "22m",
+          "Retaining Nut": "7/8\"",
+          "Safety Lock": "Wire",
+          "Removal Info": "",
+          "mechanicNotes": "400 ft lbs. Retaing Plate",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/discBrake.svg"]
+        }
+      ]
+    }
+  ]
+}

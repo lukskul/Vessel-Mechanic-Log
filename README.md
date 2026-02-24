@@ -7,6 +7,7 @@
 
 ## Features  
 - 📄 **Read-Only Access** – Users can view vessel data but cannot modify it.  
+   To add a vessel submit to lukskul.nft@gmail.com
 - ⚡ **Lightweight** – Optimized for speed and minimal resource usage.  
 
 # 🚀 - Contributing Guide Coming Soon...

@@ -3,7 +3,7 @@
     {
       "title": "Main Engine Coupler",
       "sectionInfo": {
-        "description": ""
+        "description": "Coupler Bolts to brake disc"
       },
       "couplerDetails": [
         {
@@ -19,11 +19,11 @@
         {
           "location": "Stbd",
           "info": "Coupler Bolts To disc Brake",
-          "Coupler Bolt": "22m Machine Fit",
-          "Retaining Nut": "7/8\"",
+          "Coupler Bolt": "22m Grade 8.8 329ft.lbs Machine Fit 329ft.lbs.Torque",
+          "Retaining Nut": "7/8\" Grade 8 400ft.lbs.Torque",
           "Safety Lock": "Wire",
-          "Removal Info": "",
-          "mechanicNotes": "400 ft lbs. Retaing Plate",
+          "Removal Info": "Two 16mm x 4\" Jacking Bolt",
+          "mechanicNotes": "Anti Seize lubricant 33mm Deep Socket",
           "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/discBrake.svg"]
         }
 

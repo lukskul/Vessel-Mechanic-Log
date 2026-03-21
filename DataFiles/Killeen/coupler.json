@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine Couplers",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+                {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "7/8\" x 12\" AllThread",
+          "mechanicNotes": "Coupler Bolt Wrench sizes 1-7/16\" and 1-1/2\" Set screw size #8 long reach > 4\"s",
+          "photos": [""]
+        }
+      ]
+    }
+  ]
+}

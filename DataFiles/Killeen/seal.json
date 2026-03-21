@@ -1,0 +1,56 @@
+{
+  "seals": [
+    {
+      "title": "Main Engine Water Seal",
+      "sectionInfo": {
+        "description": ""
+      },
+      "sealDetails": [
+        {
+          "location": "Main Engine",
+          "type": "Packing",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "8",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "15/16\"Wrench",
+          "photos": []
+        }
+      ]
+    },
+        {
+      "title": "Rudder Water Seals",
+      "sectionInfo": {
+        "description": ""
+      },
+      "sealDetails": [
+        {
+          "location": "Aft of Propeller",
+          "type": "Packing",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "8",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "Remove Rudder (lower end) and drop upper rudder shaft to install packing",
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

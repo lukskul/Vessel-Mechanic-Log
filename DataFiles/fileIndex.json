@@ -47,6 +47,13 @@
         "info.json",
         "prop.json"
     ],
+    "Killeen": [
+        "coupler.json",
+        "info.json",
+        "prop.json",
+        "rudder.json",
+        "seal.json"
+    ],
     "Korra": [
         "info.json",
         "prop.json",

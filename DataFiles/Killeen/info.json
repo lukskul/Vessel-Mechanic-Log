@@ -1,0 +1,21 @@
+{
+    "shipDetails": {
+      "type": "Tug",
+      "manufacturer": "",
+      "imoNumber": "8842466",
+      "mmsiNumber": "367435980",
+      "callSign": "",
+      "flag": "USA",
+      "yearBuilt": "",
+      "owner": "",
+      "homePort": "",
+      "length": "21.3 Meters",
+      "beam": "8 Meters",
+      "draft": "",
+      "grossTonnage": "",
+      "deadweightTonnage": "",
+      "engineType": "",
+      "enginePower": "",
+      "maxSpeed": ""
+    }
+}

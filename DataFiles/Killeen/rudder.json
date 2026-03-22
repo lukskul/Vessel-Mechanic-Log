@@ -3,8 +3,8 @@
     {
       "type": "",
       "title": {
-        "en": "Rudder Aft Props",
-        "es": ""
+        "en": "Rudder Aft of Props",
+        "es": "Timón detrás de las hélices"
       },
       "description": {
         "en": "",
@@ -59,7 +59,100 @@
 
           "material": "",
           "shaft_diameter": "",
-          "notes": "Rudder detaches from shaft.",
+          "notes": "Rudder detaches from shaft. Extremly tight fit but needs to be lifted up and out.  First seperate shaft and rudder.  Remove all steering linkage and hoist and secure shaft up",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "",
+      "title": {
+        "en": "Rudder Forward of Props",
+        "es": "Timón delante de las hélices"
+      },
+      "description": {
+        "en": "4 Fwd rudders Port OB - Port IB - Stbd IB - STBD OB",
+        "es": ""
+      },
+
+      "sides": [
+        {
+          "position": {
+            "en": "Port OB and IB",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        },
+        
+         {
+          "position": {
+            "en": "Stbd IB and OB",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "Rudder has a pin That detaches.  So the rudder dosn't need to lift up and out like the Aft do.",
 
 
           "tiller_arm": {

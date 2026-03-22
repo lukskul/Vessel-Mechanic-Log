@@ -1,7 +1,7 @@
 {
   "seals": [
     {
-      "title": "Main Engine Water Seal",
+      "title": "Main Engine Seal",
       "sectionInfo": {
         "description": ""
       },
@@ -16,7 +16,7 @@
           "recommended_replacement_interval": "",
           "service_specs": "",
           "packing_size": "",
-          "packing_count": "8",
+          "packing_count": "",
           "compression": "",
           "set_screws": "",
           "bolt_size": "",
@@ -27,13 +27,13 @@
       ]
     },
         {
-      "title": "Rudder Water Seals",
+      "title": "Rudder Seal",
       "sectionInfo": {
         "description": ""
       },
       "sealDetails": [
         {
-          "location": "Aft of Propeller",
+          "location": "Aft of Props",
           "type": "Packing",
           "manufacturer": "",
           "model": "",
@@ -47,7 +47,7 @@
           "set_screws": "",
           "bolt_size": "",
           "torque_value": "",
-          "mechanicNotes": "Remove Rudder (lower end) and drop upper rudder shaft to install packing",
+          "mechanicNotes": "Remove Rudder (lower end) by seperating and raising upper shaft. Zero Clearance.  When rudder is removed lower rudder shaft and install packing",
           "photos": []
         }
       ]

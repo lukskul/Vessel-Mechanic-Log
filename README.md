@@ -1,6 +1,5 @@
-**read-only-acess**
 
- [Vessel Mechanic Log](https://ipfs.io/ipfs/QmNhwDvPR2TfDY6Jobu8uKXySLhfki15QtZFAThS7bwa25?filename=VMLv4)   
+# [Vessel Mechanic Log](https://ipfs.io/ipfs/QmNhwDvPR2TfDY6Jobu8uKXySLhfki15QtZFAThS7bwa25?filename=VMLv4)   
 
 ## Features  
 - 📄 **Read-Only Access** – Users can view vessel data but cannot modify it.  

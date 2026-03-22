@@ -3,11 +3,11 @@
     {
       "type": "",
       "title": {
-        "en": "Rudder Aft of Props",
+        "en": "Rudders Aft of Props",
         "es": "Timón detrás de las hélices"
       },
       "description": {
-        "en": "",
+        "en": "2 Aft large rudders",
         "es": ""
       },
 
@@ -95,7 +95,7 @@
     {
       "type": "",
       "title": {
-        "en": "Rudder Forward of Props",
+        "en": "Rudders Forward of Props",
         "es": "Timón delante de las hélices"
       },
       "description": {

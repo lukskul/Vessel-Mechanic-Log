@@ -10,4 +10,5 @@
 - ⚡ **Lightweight** – Optimized for speed and minimal resource usage. 
 
 
-         [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bilg_rat)
+Follow for daily product reviews 👇
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bilg_rat)

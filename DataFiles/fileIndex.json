@@ -18,6 +18,10 @@
         "info.json",
         "thruster.json"
     ],
+    "CNIC": [
+        "engine.json",
+        "shaft.json"
+    ],
     "California Princess": [
         "coupler.json",
         "info.json"

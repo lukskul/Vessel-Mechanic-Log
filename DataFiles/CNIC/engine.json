@@ -1,0 +1,40 @@
+{
+  "engine": [
+    {
+      "title": { "en": "Main Engine" },
+      "description": { "en": "V Drive" },
+      "sides": [
+        {
+          "position": { "en": "Port" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+          "photos": [""]
+        },
+        {
+          "position": { "en": "STBD" },
+          "brand": "Beta Marine new installed March 2026",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "",
+              "height": "",
+              "alignment_notes": "5/8\" wrench aft mounts 9/16\" forward mounts. 15/16\" wrench for locking engine to mounts"
+            }
+          ],
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/v-drive.svg"]
+        }
+      ]
+    }
+  ]
+}

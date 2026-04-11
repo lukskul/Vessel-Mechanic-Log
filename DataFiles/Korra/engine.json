@@ -1,0 +1,40 @@
+{
+  "engine": [
+    {
+      "title": { "en": "Main Engine" },
+      "description": { "en": "V-Drive" },
+      "sides": [
+        {
+          "position": { "en": "Port" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+          "photos": [""]
+        },
+        {
+          "position": { "en": "STBD" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "Adjustable flexible rubber (elastomeric) mounts",
+              "height": "",
+              "alignment_notes": "1-7/8\" Adjusting Nut and 22m Locking nut"
+            }
+          ],
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/v-drive.svg"]
+        }
+      ]
+    }
+  ]
+}

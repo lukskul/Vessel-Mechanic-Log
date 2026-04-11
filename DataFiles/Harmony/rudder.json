@@ -1,0 +1,99 @@
+{
+  "rudder": [
+    {
+      "type": "Spade Rudder",
+      "title": {
+        "en": "",
+        "es": ""
+      },
+      "description": {
+        "en": "",
+        "es": ""
+      },
+
+      "sides": [
+        {
+          "position": {
+            "en": "Port",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "position": {
+            "en": "STBD",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "5/8\" Through bolts x 2",
+            "nutSize":"", 
+            "nutRestraint": "1/4\" Socket Set Screw",
+            "notes": "7/8\"Deep Socket and Wrench, 3/4\"Wrench, 3/16\"Allen"
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+

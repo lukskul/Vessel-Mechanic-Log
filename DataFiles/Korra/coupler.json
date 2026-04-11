@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine",
+      "sectionInfo": {
+        "description": "V-Drive."
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "STBD",
+          "info": "Coupler -> Dampner -> Transmission",
+          "Coupler Bolt": "Ferry Screws 5/16\"x1-5/16\"long",
+          "Retaining Nut": "Pinch Bolts",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "1/2\" 12 Point Wrench",
+          "photos": [""]
+        }
+      ]
+    }
+  ]
+}

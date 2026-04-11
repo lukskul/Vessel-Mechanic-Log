@@ -47,6 +47,11 @@
         "coupler.json",
         "info.json"
     ],
+    "Harmony": [
+        "info.json",
+        "rudder.json",
+        "seal.json"
+    ],
     "Ketau": [
         "info.json",
         "prop.json"
@@ -59,9 +64,12 @@
         "seal.json"
     ],
     "Korra": [
+        "coupler.json",
+        "engine.json",
         "info.json",
         "prop.json",
-        "rudder.json"
+        "rudder.json",
+        "seal.json"
     ],
     "Legacy": [
         "info.json",

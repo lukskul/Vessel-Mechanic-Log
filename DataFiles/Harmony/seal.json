@@ -1,0 +1,48 @@
+{
+  "seals": [
+    {
+      "title": "Rudder Seal",
+      "sectionInfo": {
+        "description": ""
+      },
+      "sealDetails": [
+        {
+          "location": "Port",
+          "type": "",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "",
+          "photos": []
+        },
+                {
+          "location": "Stbd",
+          "type": "Lip Seal",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "",
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

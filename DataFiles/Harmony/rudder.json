@@ -1,9 +1,9 @@
 {
   "rudder": [
     {
-      "type": "Spade Rudder",
+      "type": "rudder",
       "title": {
-        "en": "",
+        "en": "Spade Rudder",
         "es": ""
       },
       "description": {

@@ -1,9 +1,9 @@
 {
   "coupler": [
     {
-      "title": "Main Engine",
+      "title": "Main Engine Coupler",
       "sectionInfo": {
-        "description": "Coupler"
+        "description": "V-Drive Tansmission -> Dampner -> Coupler"
       },
       "couplerDetails": [
         {
@@ -24,14 +24,14 @@
           "Safety Lock": "Nylock Nuts",
           "Removal Info": "",
           "mechanicNotes": "19 mm Deep Socket.",
-          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/pinchBoltCoupler.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/dampner.svg"]
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/pinchBoltCoupler.svg"]
         }
       ]
     },
         {
-      "title": "",
+      "title": "Dampner",
       "sectionInfo": {
-        "description": "Dampner"
+        "description": "V-Drive Transmission -> Dampner -> Coupler"
       },
       "couplerDetails": [
         {

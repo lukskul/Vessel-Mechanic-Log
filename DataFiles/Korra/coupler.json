@@ -3,7 +3,35 @@
     {
       "title": "Main Engine",
       "sectionInfo": {
-        "description": "V-Drive."
+        "description": "Coupler"
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "STBD",
+          "info": "Coupler -> Dampner -> Transmission",
+          "Coupler Bolt": " 1/2\" 20 pitch SAE 6, 79 ft-lbs lubricated Torque",
+          "Retaining Nut": "No Taper Pinch Bolts",
+          "Safety Lock": "Nylock Nuts",
+          "Removal Info": "",
+          "mechanicNotes": "19 mm Deep Socket.",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/pinchBoltCoupler.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/dampner.svg"]
+        }
+      ]
+    },
+        {
+      "title": "",
+      "sectionInfo": {
+        "description": "Dampner"
       },
       "couplerDetails": [
         {
@@ -20,11 +48,11 @@
           "location": "STBD",
           "info": "Coupler -> Dampner -> Transmission",
           "Coupler Bolt": "Ferry Screws 5/16\"x1-5/16\"long",
-          "Retaining Nut": "Pinch Bolts",
+          "Retaining Nut": "",
           "Safety Lock": "",
           "Removal Info": "",
           "mechanicNotes": "1/2\" 12 Point Wrench",
-          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/pinchBoltCoupler.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/dampner.svg"]
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/dampner.svg"]
         }
       ]
     }

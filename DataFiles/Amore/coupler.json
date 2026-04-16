@@ -1,7 +1,7 @@
 {
   "coupler": [
     {
-      "title": "Main Engine Couplers",
+      "title": "Main Engine Coupler",
       "sectionInfo": {
         "description": "Coupler to engine transmission flange."
       },
@@ -24,7 +24,7 @@
           "Safety Lock": "Wire",
           "Removal Info": "",
           "mechanicNotes": "",
-          "photos": [""]
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg"]
         }
       ]
     },

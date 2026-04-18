@@ -43,6 +43,11 @@
         "coupler.json",
         "info.json"
     ],
+    "Dulcenea": [
+        "engine.json",
+        "info.json",
+        "rudder.json"
+    ],
     "Getaway": [
         "coupler.json",
         "info.json"
@@ -74,6 +79,14 @@
     "Legacy": [
         "info.json",
         "prop.json"
+    ],
+    "Lori Lynn": [
+        "coupler.json",
+        "engine.json",
+        "generator.json",
+        "info.json",
+        "prop.json",
+        "shaft.json"
     ],
     "Mystic Whaler": [
         "coupler.json",

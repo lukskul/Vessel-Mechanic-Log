@@ -1,7 +1,7 @@
 {
   "rudder": [
     {
-      "type": "rudder",
+      "type": "Rudder",
       "title": {
         "en": "Spade Rudder",
         "es": ""
@@ -12,7 +12,7 @@
       },
 
       "sides": [
-                {
+        {
           "position": {
             "en": "Port",
             "es": ""
@@ -53,7 +53,7 @@
         },
         {
           "position": {
-            "en": "Stbd",
+            "en": "STBD",
             "es": ""
           },
 
@@ -66,7 +66,7 @@
             "pinchBolts": "",
             "nutSize":"", 
             "nutRestraint": "",
-            "notes": "Allen 8mm and 5mm"
+            "notes": ""
           },
 
           "hydraulic_rams": [
@@ -81,8 +81,8 @@
           "bearings": [
             {
               "type": "Jefa Rudder Bearings",
-              "installation": "Apoxy Resin",
-              "notes": "Do Not Put Grease Between Rollers.  Item No. 4s1002 Bearing Size: 0100"
+              "installation": "",
+              "notes": "Item No. 6BB140084 Bearing Size 84"
             }
           ],
 

@@ -1,11 +1,11 @@
 {
   "engine": [
     {
-      "title": { "en": "Main Engine" },
-      "description": { "en": "V-Drive" },
+      "title": { "en": "" },
+      "description": { "en": "" },
       "sides": [
         {
-          "position": { "en": "Port" },
+          "position": { "en": "PORT" },
           "brand": "",
           "model": "",
           "horsepower": "",
@@ -19,20 +19,20 @@
           ],
           "photos": [""]
         },
-        {
+                {
           "position": { "en": "STBD" },
-          "brand": "John Deere",
+          "brand": "Caterpillar",
           "model": "",
           "horsepower": "",
           "rpm": "",
           "mounts": [
             {
-              "type": "Adjustable flexible rubber (elastomeric) mounts",
+              "type": "",
               "height": "",
-              "alignment_notes": "1-7/8\" Adjusting Nut and 22m Locking nut"
+              "alignment_notes": ""
             }
           ],
-          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/vDrive1.svg"]
+          "photos": [""]
         }
       ]
     }

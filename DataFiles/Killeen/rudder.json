@@ -1,9 +1,9 @@
 {
   "rudder": [
     {
-      "type": "",
+      "type": "rudder",
       "title": {
-        "en": "Rudders Aft of Props",
+        "en": "Skeg Rudders Aft of Prop",
         "es": "Timón detrás de las hélices"
       },
       "description": {
@@ -95,7 +95,7 @@
     {
       "type": "",
       "title": {
-        "en": "Rudders Forward of Props",
+        "en": "Skeg Rudders FWD of Props",
         "es": "Timón delante de las hélices"
       },
       "description": {

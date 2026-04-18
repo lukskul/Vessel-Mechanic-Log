@@ -1,0 +1,72 @@
+{
+  "generator": [
+    {
+      "type": "generator",
+      "title": {
+        "en": "",
+        "es": ""
+      },
+      "description": {
+        "en": "",
+        "es": ""
+      },
+
+      "sides": [
+        {
+          "position": {
+            "en": "PORT",
+            "es": ""
+          },
+
+          "brand": "",
+          "model": "",
+          "kilowatts": "",
+          "voltage": "",
+
+          "mounts": [
+            {
+              "Title": {
+                "en": "",
+                "es": ""
+              },
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "position": {
+            "en": "STBD",
+            "es": ""
+          },
+
+          "brand": "Toyota",
+          "model": "",
+          "kilowatts": "",
+          "voltage": "",
+
+          "mounts": [
+            {
+              "Title": {
+                "en": "",
+                "es": ""
+              },
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

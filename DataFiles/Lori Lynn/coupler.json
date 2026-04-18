@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "PORT",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+                {
+          "location": "STBD",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "Plate 1-1/8\"Socket",
+          "Safety Lock": "Wire",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg, https://lukskul.github.io/Vessel-Mechanic-Log/App/image/retainingPlate.svg"]
+        }
+      ]
+    }
+  ]
+}

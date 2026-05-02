@@ -1,0 +1,61 @@
+{
+  "title": "",
+  "description": "",
+
+  "locations": [
+    {
+      "name": "Haul",
+      "notes": "",
+
+      "zinc": [
+        {
+          "type": "",
+          "size": "",
+          "material": "",
+          "quantity": "44",
+          "partNumber": "",
+          "placement": "",
+          "photoBefore": "",
+          "photoAfter": "",
+          "mechanicNotes": ""
+        }
+      ]
+    },
+        {
+      "name": "Rudder",
+      "notes": "",
+
+      "zinc": [
+        {
+          "type": "",
+          "size": "",
+          "material": "",
+          "quantity": "4",
+          "partNumber": "",
+          "placement": "",
+          "photoBefore": "",
+          "photoAfter": "",
+          "mechanicNotes": ""
+        }
+      ]
+    },
+        {
+      "name": "Shaft",
+      "notes": "",
+
+      "zinc": [
+        {
+          "type": "",
+          "size": "",
+          "material": "",
+          "quantity": "4",
+          "partNumber": "",
+          "placement": "",
+          "photoBefore": "",
+          "photoAfter": "",
+          "mechanicNotes": ""
+        }
+      ]
+    }
+  ]
+}

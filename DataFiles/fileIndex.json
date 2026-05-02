@@ -26,6 +26,10 @@
         "coupler.json",
         "info.json"
     ],
+    "California Spirit ": [
+        "thruster.json",
+        "zinc.json"
+    ],
     "Californian": [
         "info.json",
         "prop.json"
@@ -44,9 +48,12 @@
         "info.json"
     ],
     "Dulcenea": [
+        "coupler.json",
         "engine.json",
         "info.json",
-        "rudder.json"
+        "prop.json",
+        "rudder.json",
+        "seal.json"
     ],
     "Getaway": [
         "coupler.json",
@@ -86,7 +93,9 @@
         "generator.json",
         "info.json",
         "prop.json",
-        "shaft.json"
+        "seal.json",
+        "shaft.json",
+        "thruster.json"
     ],
     "Mystic Whaler": [
         "coupler.json",
@@ -141,6 +150,7 @@
         "coupler.json",
         "info.json",
         "prop.json",
+        "seal.json",
         "shaft.json"
     ],
     "Surfrider": [

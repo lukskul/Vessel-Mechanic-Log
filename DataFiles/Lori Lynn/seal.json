@@ -1,0 +1,48 @@
+{
+  "seals": [
+    {
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "sealDetails": [
+        {
+          "location": "Port",
+          "type": "",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "",
+          "photos": []
+        },
+                {
+          "location": "STBD",
+          "type": "PSS",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "Make sure to remove o-rings and slide the puck on the shaft to check that the puck will be able to slide smoothly to mate the seal surface.",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/pssSeal.svg"]
+        }
+      ]
+    }
+  ]
+}

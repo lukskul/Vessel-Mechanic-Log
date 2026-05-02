@@ -1,0 +1,28 @@
+{
+  "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "2-1/4\"",
+          "nutRestraint": "Cotter Pin",
+          "pullingHoles": "None",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "Port LH",
+          "serialNumber": "",
+          "info": ""
+        },
+        {
+          "direction": "Stbd RH",
+          "serialNumber": "",
+          "info": ""
+        }
+      ]
+    }
+  ]
+}

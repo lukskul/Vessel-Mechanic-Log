@@ -1,13 +1,13 @@
 {
   "coupler": [
     {
-      "title": "",
+      "title": "Main Engine",
       "sectionInfo": {
         "description": ""
       },
       "couplerDetails": [
         {
-          "location": "PORT",
+          "location": "Port",
           "info": "",
           "Coupler Bolt": "",
           "Retaining Nut": "",
@@ -16,15 +16,15 @@
           "mechanicNotes": "",
           "photos": [""]
         },
-                {
-          "location": "STBD",
+        {
+          "location": "Stbd",
           "info": "",
-          "Coupler Bolt": "",
-          "Retaining Nut": "Plate 1-1/8\"Socket 282 ft-lb Lubricated Torque",
-          "Safety Lock": "Wire",
+          "Coupler Bolt": "3/8",
+          "Retaining Nut": "",
+          "Safety Lock": "Set Screw with Safty Wire",
           "Removal Info": "",
           "mechanicNotes": "",
-          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg", "https://lukskul.github.io/Vessel-Mechanic-Log/App/image/retainingPlate.svg"]
+          "photos": [""]
         }
       ]
     }

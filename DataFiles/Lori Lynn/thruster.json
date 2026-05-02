@@ -1,0 +1,28 @@
+{
+  "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "24 mm",
+          "nutRestraint": "Cotter Pin",
+          "pullingHoles": "3/8-16\"",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "Port LH",
+          "serialNumber": "",
+          "info": ""
+        },
+                {
+          "direction": "Stbd RH",
+          "serialNumber": "",
+          "info": "90w Gear Oil"
+        }
+      ]
+    }
+  ]
+}

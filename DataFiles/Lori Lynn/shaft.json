@@ -25,14 +25,14 @@
                 {
           "location": "STBD",
           "bearingType": "Cutless Bearings 3/8\" set screws",
-          "manufacturer": "",
-          "model": "",
+          "manufacturer": "Johnson Cutless Bearings",
+          "model": "Fwd Bearing Size 3-1/2 x 4-1/2 x 14",
           "installation": "",
           "condition": "",
           "alignmentNotes": "",
           "shaftSize": "",
           "notes": "",
-          "mechanicNotes": "",
+          "mechanicNotes": "Aft Bearings have a smaller outer diameter than the forword bearings",
           "photos": [
             ""
           ]

@@ -15,7 +15,11 @@
         "prop.json"
     ],
     "Bellisima": [
+        "coupler.json",
+        "engine.json",
         "info.json",
+        "prop.json",
+        "seal.json",
         "thruster.json"
     ],
     "CNIC": [

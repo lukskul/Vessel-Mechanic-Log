@@ -1,0 +1,48 @@
+{
+  "seals": [
+    {
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "sealDetails": [
+        {
+          "location": "Port",
+          "type": "",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "",
+          "photos": []
+        },
+                {
+          "location": "Stbd",
+          "type": "Mechanical Shaft Seal",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "14mm Allen Socket, 24mm Wrench, 8mm Allen Socket",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/mechanicalShaftSeal.svg"]
+        }
+      ]
+    }
+  ]
+}

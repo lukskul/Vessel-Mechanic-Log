@@ -1,0 +1,40 @@
+{
+  "engine": [
+    {
+      "title": { "en": "Main Engines" },
+      "description": { "en": "" },
+      "sides": [
+        {
+          "position": { "en": "Port" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+          "photos": [""]
+        },
+        {
+          "position": { "en": "Stbd" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/vDrive2.svg"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Main Engine",
+      "sectionInfo": {
+        "description": "V-drive"
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "33mm Wrench, 1-1/4\" Socket",
+          "photos": [""]
+        },
+                {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        }
+      ]
+    }
+  ]
+}

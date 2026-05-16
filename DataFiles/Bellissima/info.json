@@ -1,22 +1,22 @@
 {
     "shipDetails": {
       "name": "Bellisima",
-      "type": "",
-      "manufacturer": "",
+      "type": "Pleasure Craft",
+      "manufacturer": "Baglietto S.p.A. Italy",
       "imoNumber": "",
-      "mmsiNumber": "",
-      "callSign": "",
-      "flag": "",
-      "yearBuilt": "",
+      "mmsiNumber": "538070539",
+      "callSign": "V7PQ3",
+      "flag": "Marshall Islands",
+      "yearBuilt": "2003",
       "owner": "",
       "homePort": "",
-      "length": "",
-      "beam": "",
-      "draft": "",
-      "grossTonnage": "",
+      "length": "38.8m",
+      "beam": "7.92m",
+      "draft": "2.9m",
+      "grossTonnage": "256 GT",
       "deadweightTonnage": "",
-      "engineType": "",
-      "enginePower": "",
-      "maxSpeed": ""
+      "engineType": "2 MTU Engines",
+      "enginePower": "2,736hp",
+      "maxSpeed": "30 knots"
     }
 }

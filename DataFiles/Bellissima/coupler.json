@@ -3,7 +3,7 @@
     {
       "title": "M.E. Coupler",
       "sectionInfo": {
-        "description": "Main Engine is a V-drive."
+        "description": "Main Engine (V-drive)"
       },
       "couplerDetails": [
         {
@@ -24,7 +24,7 @@
           "Safety Lock": "Set Screws",
           "Removal Info": "",
           "mechanicNotes": "33mm Wrench, 1-1/4\" Socket",
-          "photos": [""]
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/retainingNut.svg"]
         }
       ]
     }

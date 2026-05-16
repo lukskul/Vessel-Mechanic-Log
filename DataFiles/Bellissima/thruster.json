@@ -10,7 +10,7 @@
           "diameter x pitch": "",
           "markings": "",
           "bore": "",
-          "material": "3/16\" Allen"
+          "material": ""
         },
         {
           "direction": "LH",
@@ -20,7 +20,7 @@
         {
           "direction": "RH",
           "serialNumber": "",
-          "info": ""
+          "info": "3/16\" Allen"
         }        
       ]
     }

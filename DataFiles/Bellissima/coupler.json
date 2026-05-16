@@ -13,17 +13,17 @@
           "Retaining Nut": "",
           "Safety Lock": "",
           "Removal Info": "",
-          "mechanicNotes": "33mm Wrench, 1-1/4\" Socket",
+          "mechanicNotes": "",
           "photos": [""]
         },
                 {
           "location": "Stbd",
           "info": "",
           "Coupler Bolt": "",
-          "Retaining Nut": "",
-          "Safety Lock": "",
+          "Retaining Nut": "4-1/8\"",
+          "Safety Lock": "Set Screws",
           "Removal Info": "",
-          "mechanicNotes": "",
+          "mechanicNotes": "33mm Wrench, 1-1/4\" Socket",
           "photos": [""]
         }
       ]

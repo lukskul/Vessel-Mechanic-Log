@@ -1,19 +1,24 @@
 {
   "thruster": [
     {
-      "title": "",
+      "title": "Bow Thrusters",
       "propDetails": [
         {
-          "propNutSize": "",
-          "nutRestraint": "",
-          "pullingHoles": "",
+          "propNutSize": "1-7/8\"",
+          "nutRestraint": "Cotter Pin",
+          "pullingHoles": "M12 x 1.75",
           "diameter x pitch": "",
           "markings": "",
           "bore": "",
           "material": ""
         },
         {
-          "direction": "",
+          "direction": "LH Port",
+          "serialNumber": "",
+          "info": ""
+        },
+                {
+          "direction": "RH Stbd",
           "serialNumber": "",
           "info": ""
         }

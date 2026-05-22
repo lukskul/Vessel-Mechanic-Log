@@ -1,29 +1,29 @@
 {
   "coupler": [
     {
-      "title": "M.E. Coupler",
+      "title": "",
       "sectionInfo": {
-        "description": "Main Engine (V-drive)"
+        "description": ""
       },
       "couplerDetails": [
         {
-          "location": "Port",
+          "location": "PORT",
           "info": "",
           "Coupler Bolt": "",
-          "Retaining Nut": "",
+          "Retaining Nut": "3-1/2\"",
           "Safety Lock": "",
           "Removal Info": "",
           "mechanicNotes": "",
           "photos": [""]
         },
                 {
-          "location": "Stbd",
+          "location": "STBD",
           "info": "",
           "Coupler Bolt": "",
-          "Retaining Nut": "4-1/8\"",
-          "Safety Lock": "Set Screws 1/4\" Allen Socket",
+          "Retaining Nut": "",
+          "Safety Lock": "",
           "Removal Info": "",
-          "mechanicNotes": "33mm Wrench, 1-1/4\" Socket",
+          "mechanicNotes": "1-1/4\" Wrench, 22mm Wrench",
           "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/retainingNut.svg"]
         }
       ]

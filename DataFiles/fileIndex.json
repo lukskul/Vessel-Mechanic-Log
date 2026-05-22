@@ -133,6 +133,14 @@
         "info.json",
         "prop.json"
     ],
+    "Rising Dawn": [
+        "coupler.json",
+        "info.json",
+        "prop.json",
+        "seal.json",
+        "shaft.json",
+        "thruster.json"
+    ],
     "Royal Polaris ": [
         "info.json",
         "prop.json"

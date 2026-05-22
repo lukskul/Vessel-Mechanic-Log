@@ -1,0 +1,23 @@
+{
+  "thruster": [
+    {
+      "title": "",
+      "propDetails": [
+        {
+          "propNutSize": "",
+          "nutRestraint": "",
+          "pullingHoles": "",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "",
+          "serialNumber": "",
+          "info": ""
+        }
+      ]
+    }
+  ]
+}

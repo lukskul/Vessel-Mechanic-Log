@@ -1,0 +1,21 @@
+{
+    "shipDetails": {
+      "type": "",
+      "manufacturer": "Gulf Craft United Arab Emirates",
+      "imoNumber": "",
+      "mmsiNumber": "538071828",
+      "callSign": "V7A5734",
+      "flag": "Marshall Islands",
+      "yearBuilt": "",
+      "owner": "",
+      "homePort": "",
+      "length": "43.1m",
+      "beam": "",
+      "draft": "",
+      "grossTonnage": "",
+      "deadweightTonnage": "",
+      "engineType": "2 MTU engines",
+      "enginePower": "",
+      "maxSpeed": "20kn"
+    }
+}

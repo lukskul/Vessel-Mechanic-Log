@@ -1,0 +1,43 @@
+{
+  "shafts": [
+    {
+      "type": "",
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "shaftDetails": [
+        {
+          "location": "PORT",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "",
+          "mechanicNotes": "STANDARD",
+          "photos": [
+            ""
+          ]
+        },
+                {
+          "location": "STBD",
+          "bearingType": "Cutless Bearings M8-1.25 Set Screws",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "Center 9'-1\"",
+          "mechanicNotes": "METRIC",
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

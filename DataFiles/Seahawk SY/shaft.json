@@ -1,0 +1,43 @@
+{
+  "shafts": [
+    {
+      "type": "Mains",
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "shaftDetails": [
+        {
+          "location": "Port",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "27mm Wrench",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        },
+                {
+          "location": "STBD",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "27mm Wrench",
+          "mechanicNotes": "Controllable Pitch Propeller System",
+          "photos": [
+            "https://lukskul.github.io/Vessel-Mechanic-Log/App/image/pitchBox2.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/pitchBox.svg"
+          ]
+        }
+      ]
+    }
+  ]
+}

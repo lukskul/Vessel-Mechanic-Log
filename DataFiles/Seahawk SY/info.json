@@ -1,0 +1,21 @@
+{
+    "shipDetails": {
+      "type": "60M Series Sailing",
+      "manufacturer": "Perini Navi",
+      "imoNumber": "9669366",
+      "mmsiNumber": "319177900",
+      "callSign": "ZGKJ9",
+      "flag": "Cayman Islands",
+      "yearBuilt": "2013",
+      "owner": "",
+      "homePort": "",
+      "length": "196 Ft",
+      "beam": "37 Ft",
+      "draft": "40 Ft",
+      "grossTonnage": "493 GT",
+      "deadweightTonnage": "",
+      "engineType": "MTU 8V 2000 M72",
+      "enginePower": "1,664 HP",
+      "maxSpeed": "12 Knots"
+    }
+}

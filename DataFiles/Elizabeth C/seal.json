@@ -1,7 +1,7 @@
 {
   "seals": [
     {
-      "title": "M.E. Shaft Seals",
+      "title": "Main Shaft Seals",
       "sectionInfo": {
         "description": ""
       },
@@ -22,25 +22,25 @@
           "bolt_size": "",
           "torque_value": "",
           "mechanicNotes": "",
-          "photos": []
+          "photos": [""]
         },
                 {
-          "location": "Stbd",
-          "type": "Mechanical Shaft Seal",
+          "location": "STBD",
+          "type": "Packing",
           "manufacturer": "",
           "model": "",
           "serialNumber": "",
           "sealSize": "",
           "recommended_replacement_interval": "",
           "service_specs": "",
-          "packing_size": "",
+          "packing_size": "1\"",
           "packing_count": "",
           "compression": "",
           "set_screws": "",
-          "bolt_size": "Seal-Housing:16m-2.0. Seal-Bladder:16m - 2.0 x 70m.",
+          "bolt_size": "",
           "torque_value": "",
-          "mechanicNotes": "14mm Allen Socket, 24mm Wrench, 8mm Allen Socket",
-          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/mechanicalShaftSeal.svg"]
+          "mechanicNotes": "",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/shaftPacking.svg"]
         }
       ]
     }

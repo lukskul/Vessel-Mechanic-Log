@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+                {
+          "location": "STBD",
+          "info": "",
+          "Coupler Bolt": "1\"Bolts Fine Thread",
+          "Retaining Nut": "Retaining Plate",
+          "Safety Lock": "Saftey Wire",
+          "Removal Info": "",
+          "mechanicNotes": "600ft-lbs lubricated torque",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/retainingPlate.svg"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "shipDetails": {
+      "type": "TuG",
+      "manufacturer": "rebuilt Curtin Maritime, Corp",
+      "imoNumber": "75174778",
+      "mmsiNumber": "368000890",
+      "callSign": "WDJ6855",
+      "flag": "United States Of America",
+      "yearBuilt": "1974 Rebuilt 2021",
+      "owner": "",
+      "homePort": "",
+      "length": "90 Ft",
+      "beam": "28 Ft",
+      "draft": "17 Ft",
+      "grossTonnage": "",
+      "deadweightTonnage": "",
+      "engineType": "Tier 3 Cummins QSK-38",
+      "enginePower": "3000 @ 1800RPM Gear 5:1",
+      "maxSpeed": ""
+    }
+}

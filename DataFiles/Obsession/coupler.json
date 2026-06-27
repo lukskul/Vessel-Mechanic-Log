@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Coupler",
+      "sectionInfo": {
+        "description": "Main Engine"
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": []
+        },
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "m18 x 1.5 grade 8.8. 193 ft-lbs lubricated torque",
+          "Retaining Nut": "",
+          "Safety Lock": "Bolt thru coupler to shaft nut",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg"]
+        }
+      ]
+    }
+  ]
+}

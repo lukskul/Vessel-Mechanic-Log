@@ -120,6 +120,11 @@
         "info.json",
         "prop.json"
     ],
+    "Obsession": [
+        "coupler.json",
+        "prop.json",
+        "seal.json"
+    ],
     "Paul Johansen": [
         "info.json",
         "thruster.json"
@@ -166,6 +171,11 @@
         "coupler.json",
         "info.json",
         "prop.json"
+    ],
+    "Stardust": [
+        "coupler.json",
+        "seal.json",
+        "shaft.json"
     ],
     "Steadfast": [
         "coupler.json",

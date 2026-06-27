@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "Coupler",
+      "sectionInfo": {
+        "description": "Main Engine"
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": []
+        },
+        {
+          "location": "Stbd",
+          "info": "",
+          "Coupler Bolt": "m20 x 1.5 x 100 grade 8.8 275 ft-lbs lubricated torque",
+          "Retaining Nut": "Lock Plate 5/8\" grade 8",
+          "Safety Lock": "lock washers 160 ft-lbs lubricated torque",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg","https://lukskul.github.io/Vessel-Mechanic-Log/App/image/retainingPlate.svg"]
+        }
+      ]
+    }
+  ]
+}

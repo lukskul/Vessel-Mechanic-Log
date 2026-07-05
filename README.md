@@ -1,10 +1,12 @@
 
-# [Vessel Mechanic Log](https://ipfs.io/ipfs/QmNhwDvPR2TfDY6Jobu8uKXySLhfki15QtZFAThS7bwa25?filename=VMLv4)   
+# [Vessel Mechanic Log](https://ipfs.io/ipfs/QmREZE7TRrRJPKtnN8da7Sy6V51RUNxeTFztGCn11EobVE?filename=VMLv5)   
 
 ## Features  
-- 📄 **Read-Only Access** – Users can view vessel data but cannot modify it.  
+- 📄 **Read-Only Access** – Users can view vessel.
 
-   *Note- VML Runs off this build File and not VML-Dev
+   Core files are edited and managed by the team only.  To contribute contacts below
+
+   *Note- VML Runs off VML build File and not VML-Dev
 
    To add a vessel submit to lukskul.nft@gmail.com or DM [@bilg_rat](https://www.instagram.com/bilg_rat/?hl=en) 
 

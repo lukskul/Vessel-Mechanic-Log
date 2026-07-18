@@ -1,0 +1,40 @@
+{
+  "engine": [
+    {
+      "title": { "en": "Main Engine" },
+      "description": { "en": "" },
+      "sides": [
+        {
+          "position": { "en": "Port" },
+          "brand": "",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+          "photos": [""]
+        },
+        {
+          "position": { "en": "Stbd" },
+          "brand": "Volvo Penta D3-150",
+          "model": "",
+          "horsepower": "",
+          "rpm": "",
+          "mounts": [
+            {
+              "type": "",
+              "height": "",
+              "alignment_notes": ""
+            }
+          ],
+          "photos": [""]
+        }        
+      ]
+    }
+  ]
+}

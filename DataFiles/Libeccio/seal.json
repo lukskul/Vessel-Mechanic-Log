@@ -1,0 +1,48 @@
+{
+  "seals": [
+    {
+      "title": "Main Shaft",
+      "sectionInfo": {
+        "description": ""
+      },
+      "sealDetails": [
+        {
+          "location": "Port",
+          "type": "",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "",
+          "photos": []
+        },
+        {
+          "location": "STBD",
+          "type": "Lip Seals",
+          "manufacturer": "",
+          "model": "",
+          "serialNumber": "",
+          "sealSize": "",
+          "recommended_replacement_interval": "",
+          "service_specs": "",
+          "packing_size": "",
+          "packing_count": "",
+          "compression": "",
+          "set_screws": "",
+          "bolt_size": "",
+          "torque_value": "",
+          "mechanicNotes": "",
+          "photos": []
+        }        
+      ]
+    }
+  ]
+}

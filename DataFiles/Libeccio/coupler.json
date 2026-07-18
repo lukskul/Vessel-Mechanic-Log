@@ -1,0 +1,32 @@
+{
+  "coupler": [
+    {
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "couplerDetails": [
+        {
+          "location": "Port",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "",
+          "Removal Info": "",
+          "mechanicNotes": "",
+          "photos": [""]
+        },
+        {
+          "location": "STBD",
+          "info": "",
+          "Coupler Bolt": "",
+          "Retaining Nut": "",
+          "Safety Lock": "Nylock",
+          "Removal Info": "",
+          "mechanicNotes": "41m Socket",
+          "photos": ["https://lukskul.github.io/Vessel-Mechanic-Log/App/image/coupler.svg,https://lukskul.github.io/Vessel-Mechanic-Log/App/image/retainingNut.svg"]
+        }        
+      ]
+    }
+  ]
+}

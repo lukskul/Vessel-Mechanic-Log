@@ -1,0 +1,109 @@
+{
+  "rudder": [
+    {
+      "type": "",
+      "title": {
+        "en": "",
+        "es": ""
+      },
+      "description": {
+        "en": "",
+        "es": ""
+      },
+
+      "sides": [
+        {
+          "position": {
+            "en": "Port",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": ""
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            },
+            {
+              "type": "",
+              "installation": "",
+              "notes": ""
+            }            
+          ],
+
+          "photos": [
+            ""
+          ]
+        },        
+        {
+          "position": {
+            "en": "STBD",
+            "es": ""
+          },
+
+          "material": "",
+          "shaft_diameter": "",
+          "notes": "",
+
+
+          "tiller_arm": {
+            "pinchBolts": "",
+            "nutSize":"", 
+            "nutRestraint": "",
+            "notes": "2-1/8\"Socket, 10m Thin and Regular wrench, 17m Deep socket.  Rigging Gear: (2) lifting eyes, (2) 1 ton chain falls, (4) 1/4 ton chain falls (6) 2' Straps"
+          },
+
+          "hydraulic_rams": [
+            {
+              "mountingBolts": "",
+              "nutRestraint": "",
+              "oilLineCaps": "", 
+              "oilLineCount": "",
+              "notes": ""
+            }
+          ],
+          "bearings": [
+            {
+              "type": "Roller Bearing",
+              "installation": "Upper",
+              "notes": ""
+            },
+            {
+              "type": "Plastic Bearing",
+              "installation": "Lower",
+              "notes": ""
+            }            
+          ],
+
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+

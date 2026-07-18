@@ -1,0 +1,43 @@
+{
+  "shafts": [
+    {
+      "type": "Main Shafts",
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "shaftDetails": [
+        {
+          "location": "Port",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "location": "STBD",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "Center of Shaft 11' and 2-1/2\"",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        }        
+      ]
+    }
+  ]
+}

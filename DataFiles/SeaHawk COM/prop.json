@@ -1,7 +1,7 @@
 {
   "prop": [
     {
-      "title": { "en": "", "es": "" },
+      "title": { "en": "Mains", "es": "" },
 
       "sectionInfo": {
         "description": {
@@ -31,27 +31,27 @@
           "direction": "LH Port",
           "serialNumber": "",
           "info": {
-            "en": "Rigging: 8' Sling",
+            "en": "",
             "es": ""
           }
         },
         {
-          "direction": "RH Stbd",
+          "direction": "RH STBD",
           "serialNumber": "",
           "info": {
-            "en": "Rigging: 8' Sling",
+            "en": "",
             "es": ""
           }
-        }
+        }        
       ],
 
       "specs": {
-        "propNutSize": "4-1/8\"",
-        "nutRestraint": "1/2\" Set Screws",
-        "pullingHoles": "3 holes 9/16\" All-thread 16\"Long",
+        "propNutSize": "",
+        "nutRestraint": "",
+        "pullingHoles": "3/4\"",
         "diameterPitch": "",
-        "markings": "",
-        "bore": "",
+        "markings": "Rope guard 1/4\" x 20 ",
+        "bore": "4-1/2\"",
         "material": "Ni-bral"
       }
     }

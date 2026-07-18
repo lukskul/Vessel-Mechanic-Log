@@ -4,6 +4,11 @@
         "prop.json",
         "thruster.json"
     ],
+    "Ad-Vantage": [
+        "info.json",
+        "rudder.json",
+        "seal.json"
+    ],
     "Amore": [
         "coupler.json",
         "info.json",
@@ -20,6 +25,7 @@
         "info.json",
         "prop.json",
         "seal.json",
+        "shaft.json",
         "thruster.json"
     ],
     "CNIC": [
@@ -96,6 +102,13 @@
         "info.json",
         "prop.json"
     ],
+    "Libeccio": [
+        "coupler.json",
+        "engine.json",
+        "info.json",
+        "prop.json",
+        "seal.json"
+    ],
     "Lori Lynn": [
         "coupler.json",
         "engine.json",
@@ -160,6 +173,10 @@
         "prop.json"
     ],
     "Sapphire Star": [
+        "info.json",
+        "prop.json"
+    ],
+    "SeaHawk COM": [
         "info.json",
         "prop.json"
     ],

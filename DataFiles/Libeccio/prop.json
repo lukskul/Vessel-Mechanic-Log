@@ -1,11 +1,11 @@
 {
   "prop": [
     {
-      "title": { "en": "", "es": "" },
+      "title": { "en": "Mains", "es": "" },
 
       "sectionInfo": {
         "description": {
-          "en": "",
+          "en": "Flexofold",
           "es": ""
         }
       },
@@ -31,7 +31,7 @@
           "direction": "LH Port",
           "serialNumber": "",
           "info": {
-            "en": "Rigging: 8' Sling",
+            "en": "",
             "es": ""
           }
         },
@@ -39,20 +39,20 @@
           "direction": "RH Stbd",
           "serialNumber": "",
           "info": {
-            "en": "Rigging: 8' Sling",
+            "en": "",
             "es": ""
           }
-        }
+        }        
       ],
 
       "specs": {
-        "propNutSize": "4-1/8\"",
-        "nutRestraint": "1/2\" Set Screws",
-        "pullingHoles": "3 holes 9/16\" All-thread 16\"Long",
+        "propNutSize": "",
+        "nutRestraint": "",
+        "pullingHoles": "",
         "diameterPitch": "",
         "markings": "",
         "bore": "",
-        "material": "Ni-bral"
+        "material": "Ni-bral 3 blade"
       }
     }
     

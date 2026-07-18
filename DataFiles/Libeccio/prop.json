@@ -31,7 +31,7 @@
           "direction": "LH Port",
           "serialNumber": "",
           "info": {
-            "en": "",
+            "en": "5/32\", #6 and #5 Allen",
             "es": ""
           }
         },
@@ -39,7 +39,7 @@
           "direction": "RH Stbd",
           "serialNumber": "",
           "info": {
-            "en": "",
+            "en": "5/32\", #6 and #5 Allen",
             "es": ""
           }
         }        
@@ -47,7 +47,7 @@
 
       "specs": {
         "propNutSize": "",
-        "nutRestraint": "",
+        "nutRestraint": "#30 socket",
         "pullingHoles": "",
         "diameterPitch": "",
         "markings": "",

@@ -92,12 +92,12 @@
             {
               "type": "Plastic Bearing",
               "installation": "Lower",
-              "notes": ""
+              "notes": "Has Seals check under seals tab for information."
             }            
           ],
 
           "photos": [
-            "https://lukskul.github.io/Vessel-Mechanic-Log/App/image/rudderSealDiagram.svg"
+            ""
           ]
         }
       ]

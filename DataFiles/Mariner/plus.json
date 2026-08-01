@@ -1,0 +1,27 @@
+{
+  "plus": [
+    {
+      "type": "",
+      "title": "",
+      "sectionInfo": {
+        "description": ""
+      },
+      "plusDetails": [
+        {
+          "title": "Bow Winch",
+          "type": "",
+          "description": "",
+          "details": "",
+          "materials": "Rubber Gaskets",
+          "hardwareSize": "",
+          "estimatedTime": "",
+          "condition": "Serviced August 2026",
+          "mechanicNotes": "1-1/2\" and 1-1/8\" Wrenchs And Sockets.  (2)Cresent Wrenches for hydraulic lines.",
+          "photos": [
+            "https://lukskul.github.io/Vessel-Mechanic-Log/App/image/winch.svg"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -119,6 +119,9 @@
         "shaft.json",
         "thruster.json"
     ],
+    "Mariner": [
+        "plus.json"
+    ],
     "Mystic Whaler": [
         "coupler.json",
         "info.json"

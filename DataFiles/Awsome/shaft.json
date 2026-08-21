@@ -24,17 +24,17 @@
         },
         {
           "location": "Stbd",
-          "bearingType": "(6) Cutless Bearings non metallic composite",
-          "manufacturer": "Duramax Marine LLC",
-          "model": "312-414-1400 1/8669-0012 144/21",
-          "installation": "Bearings Pressed in (2) 3/8 Set Screws each.  Forward bearings have sikaflex",
-          "condition": "New 6/27/2026",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
           "alignmentNotes": "",
-          "shaftSize": "",
-          "notes": "Split Shaft Design",
-          "mechanicNotes": "15/16\" Wrench",
+          "shaftSize": "2-1/2\"",
+          "notes": "",
+          "mechanicNotes": "",
           "photos": [
-            "https://lukskul.github.io/Vessel-Mechanic-Log/App/image/splitShaftCoupler.svg"
+            ""
           ]
         }
       ]

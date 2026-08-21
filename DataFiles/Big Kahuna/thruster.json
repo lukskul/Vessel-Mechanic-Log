@@ -1,0 +1,44 @@
+{
+  "thruster": [
+    {
+      "title": "Bow Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "1-3/4\"",
+          "nutRestraint": "Hidden Set Screw behind the nut.",
+          "pullingHoles": "1-1/4\"All thread through the hub and push off the shaft",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "RH",
+          "serialNumber": "",
+          "info": "2 Blade"
+        }
+        
+      ]
+    },
+        {
+      "title": "Stern Thruster",
+      "propDetails": [
+        {
+          "propNutSize": "1-3/4\"",
+          "nutRestraint": "Hidden Set Screw behind the nut.",
+          "pullingHoles": "1-1/4\"All thread through the hub and push off the shaft",
+          "diameter x pitch": "",
+          "markings": "",
+          "bore": "",
+          "material": ""
+        },
+        {
+          "direction": "RH",
+          "serialNumber": "",
+          "info": ""
+        }
+        
+      ]
+    }
+  ]
+}

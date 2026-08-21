@@ -28,6 +28,13 @@
         "shaft.json",
         "thruster.json"
     ],
+    "Big Kahuna": [
+        "coupler.json",
+        "prop.json",
+        "seal.json",
+        "shaft.json",
+        "thruster.json"
+    ],
     "CNIC": [
         "engine.json",
         "shaft.json"

@@ -1,0 +1,42 @@
+{
+  "shafts": [
+    {
+      "type": "",
+      "title": "Main Engine Shafts",
+      "sectionInfo": {
+        "description": ""
+      },
+      "shaftDetails": [
+        {
+          "location": "Port",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "",
+          "mechanicNotes": "Center 8'7\"",
+          "photos": [
+            ""
+          ]
+        },        {
+          "location": "Stbd",
+          "bearingType": "",
+          "manufacturer": "",
+          "model": "",
+          "installation": "",
+          "condition": "",
+          "alignmentNotes": "",
+          "shaftSize": "",
+          "notes": "",
+          "mechanicNotes": "Center 8'7\"",
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

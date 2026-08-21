@@ -1,0 +1,88 @@
+{
+  "seaScreens": [
+    {
+      "type": "",
+      "title": "Jet Intake Screens",
+      "sectionInfo": {
+        "description": "5 count"
+      },
+      "screenDetails": [
+        {
+          "location": "Port OB",
+          "hardwareSize": "",
+          "thruBolts": "",
+          "numberOfBolts": "",
+          "hasInternalZincs": "",
+          "zincCondition": "",
+          "screenCondition": "",
+          "portSize": "",
+          "housingType": "",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "location": "Port IB",
+          "hardwareSize": "",
+          "thruBolts": "",
+          "numberOfBolts": "",
+          "hasInternalZincs": "",
+          "zincCondition": "",
+          "screenCondition": "",
+          "portSize": "",
+          "housingType": "",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "location": "Center",
+          "hardwareSize": "",
+          "thruBolts": "",
+          "numberOfBolts": "",
+          "hasInternalZincs": "",
+          "zincCondition": "",
+          "screenCondition": "",
+          "portSize": "",
+          "housingType": "",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "location": "Stbd IB",
+          "hardwareSize": "",
+          "thruBolts": "",
+          "numberOfBolts": "",
+          "hasInternalZincs": "",
+          "zincCondition": "",
+          "screenCondition": "",
+          "portSize": "",
+          "housingType": "",
+          "mechanicNotes": "",
+          "photos": [
+            ""
+          ]
+        },
+        {
+          "location": "Stbd OB",
+          "hardwareSize": "20 mm Nylock Nut washers and lock washers",
+          "thruBolts": "",
+          "numberOfBolts": "40 count washers and lockwashers and nylocks",
+          "hasInternalZincs": "",
+          "zincCondition": "",
+          "screenCondition": "",
+          "portSize": "",
+          "housingType": "",
+          "mechanicNotes": "32mm impact socket or 1-1/4\"",
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

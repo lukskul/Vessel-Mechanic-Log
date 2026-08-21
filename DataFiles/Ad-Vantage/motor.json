@@ -1,0 +1,54 @@
+{
+  "motor": [
+    {
+      "type": "",
+      "title": {
+        "en": "Steering pump Motors",
+        "es": ""
+      },
+      "description": {
+        "en": "",
+        "es": ""
+      },
+
+      "sides": [
+
+        {
+          "position": {
+            "en": "",
+            "es": ""
+          },
+
+          "brand": "",
+          "model": "",
+          "power": "",
+          "voltage": "",
+          "origin": "",
+          "function": "",
+
+          "mounts": [
+            {
+              "Title": {
+                "en": "",
+                "es": ""
+              },
+              "type": "",
+              "bolt_size": "",
+              "notes": "5mm Allen Set Screws. 17mm Wrench for mount bolts."
+            }
+          ],
+
+          "coupler": {
+            "type": "",
+            "size": "",
+            "notes": ""
+          },
+
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

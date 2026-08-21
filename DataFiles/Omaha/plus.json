@@ -1,0 +1,50 @@
+{
+  "plus": [
+    {
+      "type": "",
+      "title": "Hand Rails",
+      "sectionInfo": {
+        "description": ""
+      },
+      "plusDetails": [
+        {
+          "title": "",
+          "type": "",
+          "description": "",
+          "details": "",
+          "materials": "",
+          "hardwareSize": "",
+          "estimatedTime": "",
+          "condition": "",
+          "mechanicNotes": "2.5 Allen for set screws",
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    },
+        {
+      "type": "",
+      "title": "Vents",
+      "sectionInfo": {
+        "description": ""
+      },
+      "plusDetails": [
+        {
+          "title": "",
+          "type": "",
+          "description": "",
+          "details": "",
+          "materials": "",
+          "hardwareSize": "",
+          "estimatedTime": "",
+          "condition": "",
+          "mechanicNotes": "9 count remove for painting. Held on with SikaFlex",
+          "photos": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@
     ],
     "Ad-Vantage": [
         "info.json",
+        "motor.json",
         "rudder.json",
         "seal.json"
     ],
@@ -81,6 +82,10 @@
         "coupler.json",
         "info.json"
     ],
+    "Harbor Police": [
+        "engine.json",
+        "plus.json"
+    ],
     "Harmony": [
         "info.json",
         "rudder.json",
@@ -148,6 +153,9 @@
         "prop.json",
         "seal.json"
     ],
+    "Omaha": [
+        "plus.json"
+    ],
     "Paul Johansen": [
         "info.json",
         "thruster.json"
@@ -161,6 +169,9 @@
     ],
     "Phonix": [
         "info.json"
+    ],
+    "Ranger": [
+        "seaScreen.json"
     ],
     "Rent Spent": [
         "info.json",

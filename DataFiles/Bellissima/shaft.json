@@ -1,7 +1,7 @@
 {
   "shafts": [
     {
-      "type": "",
+      "type": "shaft",
       "title": "Main Shafts",
       "sectionInfo": {
         "description": ""
@@ -33,9 +33,7 @@
           "shaftSize": "",
           "notes": "Center of Shaft 11' and 2-1/2\"",
           "mechanicNotes": "",
-          "photos": [
-            ""
-          ]
+          "photos": []
         }        
       ]
     }

@@ -2,9 +2,9 @@
   "shafts": [
     {
       "type": "Type",
-      "title": "Main Engine",
+      "title": "Main Engine Shaft",
       "sectionInfo": {
-        "description": "V-Drive"
+        "description": "Flexible joint assembly"
       },
       "shaftDetails": [
         {
@@ -27,11 +27,11 @@
           "bearingType": "",
           "manufacturer": "",
           "model": "",
-          "installation": "Flexible joint assebly 3-1/2\"",
+          "installation": "Flexible joint asseblyh should have play 3-1/2\"",
           "condition": "",
           "alignmentNotes": "",
           "shaftSize": "",
-          "notes": "v-drive 2 quarts SAE 40 Transmission Fluid",
+          "notes": "",
           "mechanicNotes": "",
           "photos": [
             "https://lukskul.github.io/Vessel-Mechanic-Log/App/image/vDrive2.svg"
